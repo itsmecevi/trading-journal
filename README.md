@@ -15,4 +15,4 @@
 * 19:00-> Jika ada fundamental bertentangan keluar, akan ada spike besar dan mempengaruhi spread
 * 19:18-> Jika fundamental sama nilainya dengan periode sebelumnya, akan ada ketidakpastian besar
 * 19:30-> Unemployment rate USD melemah, Euro akan naik drastis, di saat variable euro tetap
-* 19:49-> Harus ada batasan untuk hedging dan atau cut loss, karena pasar tidak menentu
+* 19:49-> Harus ada batasan untuk hedging dan atau cut loss, karena pasar tidak menentu. 10$ atau 100$
