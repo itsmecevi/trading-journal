@@ -11,7 +11,7 @@
 
 
 ### 10.09.2020
-* 19:00-> Fundamental keluar, price action tidak berfungsi
+* 19:00-> Fundamental keluar, price action pinbar tidak berfungsi
 * 19:00-> Jika ada fundamental bertentangan keluar, akan ada spike besar dan mempengaruhi spread
 * 19:18-> Jika fundamental sama nilainya dengan periode sebelumnya, akan ada ketidakpastian besar
 
