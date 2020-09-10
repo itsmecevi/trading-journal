@@ -14,4 +14,5 @@
 * 19:00-> Fundamental keluar, price action pinbar tidak berfungsi
 * 19:00-> Jika ada fundamental bertentangan keluar, akan ada spike besar dan mempengaruhi spread
 * 19:18-> Jika fundamental sama nilainya dengan periode sebelumnya, akan ada ketidakpastian besar
+* 19:30-> Unemployment rate USD melemah, Euro akan naik drastis, di saat variable euro tetap
 
