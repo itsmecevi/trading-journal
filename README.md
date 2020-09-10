@@ -10,4 +10,6 @@
 * 14:50-> Ambil hanya 50 pips untuk invest panjang
 
 
-
+### 10.09.2020
+* 19:00-> Fundamental keluar, price action tidak berfungsi
+* 19:00-> Jika ada fundamental bertentangan keluar, akan ada spike besar dan mempengaruhi spread
