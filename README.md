@@ -20,4 +20,11 @@
 
 ### 11.09.2020:
 * 19:30-> PPI dan Core PPi tidak begitu terpengaruh, karena hari sebelumnya, ada pernyataan positif dari Euro
+
+
+### 14.09.2020
+* 10:00-> Max perdagangan untuk sesi asia
+* 09:30-> Jika ada CS besar hampir menyerupai marubozo, kemungkinan akan ada CS besar lainnya setelahnya
+* 09:30-> Jika Fibo sudah terlewati 0.0 atau 100, tunggu melakukan koreksi sebentar, lalu OP di saat sedikit mendekati 0.0 atau 100
+* 09:30-> Perhatikan kelakuan harga pada saat mendekati 0.0 atau 100, semakin dia sulit tembus, maka ada kemungkinan berbalik arah, tetapi ketika tidak juga berbalik balik, maka kemungkinan akan naik
 * 
