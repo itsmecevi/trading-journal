@@ -27,4 +27,4 @@
 * 09:30-> Jika ada CS besar hampir menyerupai marubozo, kemungkinan akan ada CS besar lainnya setelahnya
 * 09:30-> Jika Fibo sudah terlewati 0.0 atau 100, tunggu melakukan koreksi sebentar, lalu OP di saat sedikit mendekati 0.0 atau 100
 * 09:30-> Perhatikan kelakuan harga pada saat mendekati 0.0 atau 100, semakin dia sulit tembus, maka ada kemungkinan berbalik arah, tetapi ketika tidak juga berbalik balik, maka kemungkinan akan naik
-* 
+* Waktu terbaik untuk trading sesi asia adalah jam 07:00-10:00
