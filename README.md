@@ -28,3 +28,10 @@
 * 09:30-> Jika Fibo sudah terlewati 0.0 atau 100, tunggu melakukan koreksi sebentar, lalu OP di saat sedikit mendekati 0.0 atau 100
 * 09:30-> Perhatikan kelakuan harga pada saat mendekati 0.0 atau 100, semakin dia sulit tembus, maka ada kemungkinan berbalik arah, tetapi ketika tidak juga berbalik balik, maka kemungkinan akan naik
 * Waktu terbaik untuk trading sesi asia adalah jam 07:00-10:00
+
+
+### 15.09.2020
+* 07:00-> Ambil minimum 10 point untuk metode breakout fibonacci TFH1
+* 09:00-> Lihat RSI untuk cut profit max TFH1
+* 09:00-> untuk 500$, buka OP 0.1 Lot
+
