@@ -34,4 +34,8 @@
 * 07:00-> Ambil minimum 10 point untuk metode breakout fibonacci TFH1
 * 09:00-> Lihat RSI untuk cut profit max TFH1
 * 09:00-> untuk 500$, buka OP 0.1 Lot
+* 10:00-> ada Pinbar di TFM1, walaupun RSI jenuh, masih kuat untuk ke atas
+* 13:00-> OP menggunakan trendline pada saat breakout
+* 15:00-> TFH1 dan TFH4 menggunakan breakout pada saat 0.0 dan 100.00
+
 
