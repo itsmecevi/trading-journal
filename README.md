@@ -40,5 +40,7 @@
 * 19:50-> Ketika line TFH1 dan TFH4 berdekatan atau hampir sama, akan terjadi pergerakan besar
 
 ### 16.09.2020
+* 18:00-> Jangan ambil op ketika di tengah cs, jadi cs terbentuk, OP pas di awal2 waktu
+* 
 
 
