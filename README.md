@@ -41,6 +41,7 @@
 
 ### 16.09.2020
 * 18:00-> Jangan ambil op ketika di tengah cs, jadi cs terbentuk, OP pas di awal2 waktu
+* 19:30-> Jangan terlalu percaya fundamental, karena bisa saja kebalikan arah
 * 
 
 
