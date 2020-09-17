@@ -44,5 +44,7 @@
 * 19:30-> Jangan terlalu percaya fundamental, karena bisa saja kebalikan arah
 * 11:30-> Fundamental ada juga yang berefek sehari setelahnya
 
-
+### 17.09.2020
+* 07:00-> Jangan ambil spekulasi, gunakan teknikal dan robot TP
+* 
 
