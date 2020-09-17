@@ -46,5 +46,5 @@
 
 ### 17.09.2020
 * 07:00-> Jangan ambil spekulasi, gunakan teknikal dan robot TP
-* 
+* 12:10-> Jangan OP jika ketinggalan breakout, tapi tunggu momen selanjutnya
 
