@@ -50,5 +50,7 @@
 * 12:40-> Ketika ada turun ke bawah cepat, ke atas lambat, kemungkinan ke bawah lebih besar daripada kemungkinan ke atas
 * 14:00-> Pasang pending order jangan pas di bawah breakout, minimal ada selisih di tengah CS sebelumnya
 * 14:30-> Ketika CS di TFM1 susah menembus break, tapi terjadi sideway, maka kemungkinan akan melanjutkan tren
+* 21:00-> Gunakan konfirmasi TFM5 untuk menggunakan teknik breakout
+* 21:30-> Agar psikologis aman, gunakan hanya aturan TP 10 point dan 50 point
 
 
