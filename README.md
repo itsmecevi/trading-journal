@@ -48,5 +48,6 @@
 * 07:00-> Jangan ambil spekulasi, gunakan teknikal dan robot TP
 * 12:10-> Jangan OP jika ketinggalan breakout, tapi tunggu momen selanjutnya
 * 12:40-> Ketika ada turun ke bawah cepat, ke atas lambat, kemungkinan ke bawah lebih besar daripada kemungkinan ke atas
+* 14:00-> Pasang pending order jangan pas di bawah breakout, minimal ada selisih di tengah CS sebelumnya
 
 
