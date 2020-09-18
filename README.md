@@ -57,4 +57,5 @@
 ### 18.09.2020
 * 16:00-> Jangan trading di breakout kedua, cukup trading di breakout pertama
 * 19:40-> Lot management 500$, buka 0.1 Lot, TP 10 point
+* 21:54-> Ketika ada fundamental merah tapi berkebalikannya, kemungkinan besar akan terjadi pada hari setelahnya
 
