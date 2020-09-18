@@ -56,6 +56,8 @@
 
 ### 18.09.2020
 * 16:00-> Jangan trading di breakout kedua, cukup trading di breakout pertama
+* 18:00-> Jika ada 2 Pinbar, lalu harga berbalik, OP di kaki pinbar tersebut, kemungkinan ke atas akan besar
 * 19:40-> Lot management 500$, buka 0.1 Lot, TP 10 point
 * 21:54-> Ketika ada fundamental merah tapi berkebalikannya, kemungkinan besar akan terjadi pada hari setelahnya
+
 
