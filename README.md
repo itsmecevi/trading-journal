@@ -54,3 +54,7 @@
 * 21:30-> Agar psikologis aman, gunakan hanya aturan TP 10 point dan 50 point
 
 
+### 18.09.2020
+* 16:00-> Jangan trading di breakout kedua, cukup trading di breakout pertama
+* 19:40-> Lot management 500$, buka 0.1 Lot, TP 10 point
+
