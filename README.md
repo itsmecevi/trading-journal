@@ -65,5 +65,10 @@
 * 10:00-> TFH1 untuk breakout per jam, TFH4 untuk breakout per 4 jam, jangan menggunakan breakout per jam di TFH4
 * 13:00-> Jika ada OP x, maka tidak boleh hedging 2x, tetapi hedging x dan sejumlah x di arah tren
 * 16:00-> Hedging di breakout level terdekat, apakah TFH1 dan TFH4
+
+### 22.09.2020
+
+* 05:30-> Tren ada beberapa jenis, yang terus searah, yang berbelok arah ketika pergantian waktu trading (sideway), yang searah pada 2 waktu trading
+* 
 *
-*
+
