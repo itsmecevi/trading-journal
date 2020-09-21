@@ -60,4 +60,10 @@
 * 19:40-> Lot management 500$, buka 0.1 Lot, TP 10 point
 * 21:54-> Ketika ada fundamental merah tapi berkebalikannya, kemungkinan besar akan terjadi pada hari setelahnya
 
+### 21.09.2020
 
+* 10:00-> TFH1 untuk breakout per jam, TFH4 untuk breakout per 4 jam, jangan menggunakan breakout per jam di TFH4
+* 
+*
+*
+*
