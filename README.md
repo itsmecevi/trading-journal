@@ -70,6 +70,19 @@
 
 * 05:30-> Tren ada beberapa jenis, yang terus searah, yang berbelok arah ketika pergantian waktu trading (sideway), yang searah pada 2 waktu trading
 * 09:00-> Bisa saja teknik breakout tidak berfungsi di market, maka dari itu, kita harus siap dengan hedging
-*
+
+
+### 23.09.2020
+
+* Waktu Trading 7-10, 13-16, 19-22
 * 
+
+
+### 24.09.2020
+
+*
+*
+*
+*
+
 
