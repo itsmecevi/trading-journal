@@ -85,5 +85,5 @@
 
 ### 25.09.2020
 
-* Apabila menggunakan metode breakout, hati hati dengan CS doji
+* Apabila menggunakan metode breakout, hati hati dengan CS doji, juga CS reversal seperti pinbar, engulfing, dll
 
