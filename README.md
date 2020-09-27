@@ -75,14 +75,15 @@
 ### 23.09.2020
 
 * Waktu Trading 7-10, 13-16, 19-22
-* 
+
 
 
 ### 24.09.2020
 
-*
-*
-*
-*
+* Hati-hati dengan TFH4 karena merupakan support dan resistance kuat untuk daily trading
+* Gunakan MA5High dan MA5Low untuk konfirmasi menghadapi TFH4
 
+### 25.09.2020
+
+* Apabila menggunakan metode breakout, hati hati dengan CS doji
 
