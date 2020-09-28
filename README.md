@@ -87,3 +87,7 @@
 
 * Apabila menggunakan metode breakout, hati hati dengan CS doji, juga CS reversal seperti pinbar, engulfing, dll
 
+### 28.09.2020
+
+* Jika ada news yang berhubungan dengan mata uang yang dikemukakan seseorang petinggi negara, sentimen cenderung positif
+* 
