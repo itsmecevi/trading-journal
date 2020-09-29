@@ -99,4 +99,6 @@
 
 * 19:30 -> Jika ada 2 Pinbar berjejer, itu merupakan sinyal reversal
 * Menggunakan teknik breakout, OP minimal 5x
+* Jika harga sudah terlalu tinggi atau rendah, maka sebaiknya tunggu dulu jangan langsung OP pas breakout
+
 
