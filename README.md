@@ -97,5 +97,6 @@
 
 ### 29.09.2020
 
-* Jika ada 2 Pinbar berjejer, itu merupakan sinyal reversal
+* 19:30 -> Jika ada 2 Pinbar berjejer, itu merupakan sinyal reversal
+* Menggunakan teknik breakout, OP minimal 5x
 
