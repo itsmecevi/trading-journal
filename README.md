@@ -90,4 +90,11 @@
 ### 28.09.2020
 
 * Jika ada news yang berhubungan dengan mata uang yang dikemukakan seseorang petinggi negara, sentimen cenderung positif
-* 
+* Jika ada news sesuai dengan point pertama, tapi tidak searah, artinya market melakukan dulu koreksi, tunggu sampai ada CS reversal seperi Marobozo yang berdampingan
+* Jangan overlot. Per 500ribu akun cent-> 1Lot. Klo per 500 akun standar-> 0.1Lot
+
+
+## 29.09.2020
+
+* Jika ada 2 Pinbar berjejer, itu merupakan sinyal reversal
+
