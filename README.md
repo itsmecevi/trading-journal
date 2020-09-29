@@ -95,7 +95,7 @@
 
 
 
-## 29.09.2020
+### 29.09.2020
 
 * Jika ada 2 Pinbar berjejer, itu merupakan sinyal reversal
 
