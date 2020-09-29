@@ -94,6 +94,7 @@
 * Jangan overlot. Per 500ribu akun cent-> 1Lot. Klo per 500 akun standar-> 0.1Lot
 
 
+
 ## 29.09.2020
 
 * Jika ada 2 Pinbar berjejer, itu merupakan sinyal reversal
