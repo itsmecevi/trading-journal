@@ -101,4 +101,8 @@
 * Menggunakan teknik breakout, OP minimal 5x
 * Jika harga sudah terlalu tinggi atau rendah, maka sebaiknya tunggu dulu jangan langsung OP pas breakout
 
+### 30.09.2020
 
+* Waktu trading: 07-10 (4 Jam), 13-16 (4 jam), 19-22 (4 jam)
+*
+*
