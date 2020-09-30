@@ -111,6 +111,8 @@
 * Syarat broker harus mempunyai sistem trading multiterminal
 * 3 Poin utama sistem trading gertaone: 1. Broker, 2. Multiterminal, 3. Laptop
 * Double Pinbar peluang besar profit
+* Gunakan trailing stop (Variable Stop Loss) untuk trading panjang dengan memperkecil Lot
+
 
 
 
