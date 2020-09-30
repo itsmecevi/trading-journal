@@ -108,5 +108,7 @@
 * Jangan Overlot!
 * Harus Fix Rate!
 * Gunakan akun multiterminal dan robot tp di tiap akun dengan masing2 laptop
+* Syarat broker harus mempunyai sistem trading multiterminal
+* 3 Poin utama sistem trading gertaone: 1. Broker, 2. Multiterminal, 3. Laptop
 
 
