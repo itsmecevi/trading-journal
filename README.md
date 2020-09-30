@@ -106,4 +106,7 @@
 * Waktu trading: 07-10 (4 Jam), 13-16 (4 jam), 19-22 (4 jam)
 * Patuhlah selalu SOP!
 * Jangan Overlot!
-*
+* Harus Fix Rate!
+* Gunakan akun multiterminal dan robot tp di tiap akun dengan masing2 laptop
+
+
