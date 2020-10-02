@@ -125,6 +125,7 @@
 * Jika ada problem dengan pemimpin USA terutamanya presiden, USA kemungkinan besar akan turun puluhan pips
 * MA5High dan MA5Low sangat kuat untuk menentukan koreksi, apakah tren berlanjut atau tidak, terutama untuk day trader di TFH1 dan untuk konfirmasi di TFM5
 * Meskipun ada news penting, tetapi H4 merupakan support/resistance yang sangat kuat
+* Ketika breakout terjadi di awal waktu dan cukup panjang, lebih baik tidak OP dan atau tunggu di MA5Low apakah mantul atau tidak
 
 
 
