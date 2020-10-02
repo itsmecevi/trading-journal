@@ -114,6 +114,11 @@
 * Gunakan trailing stop (Variable Stop Loss) untuk trading panjang dengan memperkecil Lot
 
 
+### 01.10.2020
+
+* Jika max buka 0.1 Lot, disarankan untuk membuka tidak semuanya, tapi dipecah menjadi beberapa bagian OP
+* Misal buka 0.1 Lot, maka bagi menjadi 0.03, 0.03, 0.03 Lot
+
 
 
 
