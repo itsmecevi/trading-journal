@@ -120,6 +120,14 @@
 * Misal buka 0.1 Lot, maka bagi menjadi 0.03, 0.03, 0.03 Lot
 
 
+### 02.10.2020
+
+* Jika ada problem dengan pemimpin USA terutamanya presiden, USA kemungkinan besar akan turun puluhan pips
+* 
+
+
+
+
 
 
 
