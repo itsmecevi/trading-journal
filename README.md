@@ -129,6 +129,11 @@
 
 
 
+### 05.10.2020
+
+* 09:00-> Double Pinbar di TFM5 sangat kuat untuk membuat tren bullish / bearish
+* 
+
 
 
 
