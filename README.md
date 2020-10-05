@@ -133,6 +133,9 @@
 
 * 09:00-> Double Pinbar di TFM5 sangat kuat untuk membuat tren bullish / bearish
 * Fundamental akan selalu berpengaruh, opsinya ada langsung, nunggu 1 hari, bahkan 2 hari
+* Jika garis TFH1 dan TFH4 berdekatan, kemungkinan akan melakukan konsolidasi berupa pola sideway terlebih dahulu
+* 
+*
 * 
 
 
