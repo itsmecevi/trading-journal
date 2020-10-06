@@ -135,8 +135,14 @@
 * Fundamental akan selalu berpengaruh, opsinya ada langsung, nunggu 1 hari, bahkan 2 hari
 * Jika garis TFH1 dan TFH4 berdekatan, kemungkinan akan melakukan konsolidasi berupa pola sideway terlebih dahulu
 * Jika garis TFH1 dan TFH4 segaris, maka akan ada pemantulan atau breakout yang besar, tapi bisa jadi berlanjut atau hanya sesaat dan membentuk pola pinbar untuk melakukan trend continuation
-*
+
+
+### 06.10.2020
+
+* Jika ada fundamental kuat dan efeknya berkebalikan, maka OP di low BB atau high BB
 * 
+* 
+
 
 
 
