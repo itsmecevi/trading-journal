@@ -140,6 +140,7 @@
 ### 06.10.2020
 
 * Jika ada fundamental kuat dan efeknya berkebalikan, maka OP di low BB atau high BB
+* Jika ada seseorang berbicara pada malam harinya, sentimen cenderung akan positif
 * 
 * 
 
