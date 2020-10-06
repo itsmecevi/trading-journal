@@ -141,8 +141,8 @@
 
 * Jika ada fundamental kuat dan efeknya berkebalikan, maka OP di low BB atau high BB
 * Jika ada seseorang berbicara pada malam harinya, sentimen cenderung akan positif
-* 
-* 
+* Jangan OP dengan breakout jika ada CS Pinbar yang berkebalikan arah
+* Jangan OP dengan breakout jika ada CS doji yang menunjukan arah yang tidak jelas
 
 
 
