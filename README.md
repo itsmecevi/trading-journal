@@ -149,7 +149,8 @@
 
 ### 07.10.2020
 
-*
+* Jika ada fundamental kuat, maka TP maks 30 pips, atau 300 point
+* Terkadanga, fundamental akan searah dan sebelumnya akan melakukan koreksi
 *
 *
 
