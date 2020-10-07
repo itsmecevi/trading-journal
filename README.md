@@ -143,6 +143,16 @@
 * Jika ada seseorang berbicara pada malam harinya, sentimen cenderung akan positif
 * Jangan OP dengan breakout jika ada CS Pinbar yang berkebalikan arah
 * Jangan OP dengan breakout jika ada CS doji yang menunjukan arah yang tidak jelas
+* Ketika ada fundamental, sentimen akan positif jika searah, hal itu terjadi di sesi market sebelumnya, dan jika sesuai, maka akan ada pergerakan besar
+* EU memegang hanya 30% dari USD, sentimen positif USD akan lebih berpengaruh setidaknya 3x lipat daripada sentimen positif EU
+
+
+### 07.10.2020
+
+*
+*
+*
+
 
 
 
