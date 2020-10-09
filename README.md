@@ -160,7 +160,8 @@
 
 ### 09.10.2020
 
-
+* CS lebih dari 20 poin di titik breakout, tunggu sampai mencapai MA5High/Low
+* Ketika ada doji di titik breakout, ada isyarat untuk cut loss
 
 
 
