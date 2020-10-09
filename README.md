@@ -151,8 +151,16 @@
 
 * Jika ada fundamental kuat, maka TP maks 30 pips, atau 300 point
 * Terkadanga, fundamental akan searah dan sebelumnya akan melakukan koreksi
-*
-*
+
+### 08.10.2020
+
+* Pinbar di TFM15 langsung buka bisa dapat sekitar 10 point
+* Jika ada ada Double Pinbar walaupun tidak sempurna di H1, bisa maks 50 point
+
+
+### 09.10.2020
+
+
 
 
 
