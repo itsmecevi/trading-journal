@@ -163,6 +163,16 @@
 * CS lebih dari 20 poin di titik breakout, tunggu sampai mencapai MA5High/Low
 * Ketika ada doji di titik breakout, ada isyarat untuk cut loss
 * Doji dan Pinbar di Low BB di TFH1 menunjukan kemungkinan reversal yang tinggi
+* Jika ada fundamental kuat, maka buatlah skenario trading panjang dengan lot kecil sebagai bahan percobaan
+
+
+### 12.10.2020
+
+*
+*
+*
+
+
 
 
 
