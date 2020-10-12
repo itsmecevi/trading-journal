@@ -168,8 +168,9 @@
 
 ### 12.10.2020
 
-*
-*
+* Jika ada sebuah stimulus dari USA, USD kemungkinan akan naik
+* Jika Bank libur di sebuah negara, maka dipastikan pergerakan tidak akan terlalu besar
+* 
 *
 
 
