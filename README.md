@@ -171,8 +171,13 @@
 * Jika ada sebuah stimulus dari USA, USD kemungkinan akan naik
 * Jika Bank libur di sebuah negara, maka dipastikan pergerakan tidak akan terlalu besar
 * Jika harga melewati Mid BB yang menempel dengan MA5Low di TFH1, kemungkinan besar harga akan melanjutkan tren
-* 
+
+
+### 13.10.2020
+
+* Jika Bank USA sebelumnya tutup, kemungkinan hari selanjutnya akan menguat
 *
+
 
 
 
