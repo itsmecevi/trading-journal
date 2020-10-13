@@ -176,7 +176,8 @@
 ### 13.10.2020
 
 * Jika Bank USA sebelumnya tutup, kemungkinan hari selanjutnya akan menguat
-*
+* Pinbar di TF kecil seperti TFM5 dan TFM1 sangat beresiko sekali
+
 
 
 
