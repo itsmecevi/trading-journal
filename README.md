@@ -180,6 +180,9 @@
 * SOP harus dilaksanakan jika tidak maka akan bencana
 * Ketika SOP dilaksanakan, faktor risk hanya sekitar 1%-3% 
 * Hindari OP ketika ada Pinbar di TF yang lebih tinggi (TFM15)
+* Update tanda-tanda konfirmasi: 1. Double Pinbar di TFH1, 2. Pinbar di TFHM15, 3. Candle Bank (Laut tenang di bawah 20 pips candle CB 32, kalau diatas 20 CB 42)
+* Pada dasarnya pola reversal:= hampir Pinbar!
+
 
 
 
