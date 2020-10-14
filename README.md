@@ -178,7 +178,7 @@
 * Jika Bank USA sebelumnya tutup, kemungkinan hari selanjutnya akan menguat
 * Pinbar di TF kecil seperti TFM5 dan TFM1 sangat beresiko sekali
 * SOP harus dilaksanakan jika tidak maka akan bencana
-
+* Ketika SOP dilaksanakan, faktor risk hanya sekitar 1%-3% 
 
 
 
