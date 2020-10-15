@@ -184,6 +184,14 @@
 * Pada dasarnya pola reversal:= hampir Pinbar!
 
 
+### 14.10.2020
+
+* Strategi breakout bisa saja salah dan langsung cut loss di MA5Low/High
+* Membutuhkan recovery akun sekitar 1 hari untuk sekali salah
+* Rata2 profit sempurna bisa 20%, tetapi terjelek adalah 5% per bulan
+*
+*
+*
 
 
 
