@@ -189,9 +189,13 @@
 * Strategi breakout bisa saja salah dan langsung cut loss di MA5Low/High
 * Membutuhkan recovery akun sekitar 1 hari untuk sekali salah
 * Rata2 profit sempurna bisa 20%, tetapi terjelek adalah 5% per bulan
-*
-*
-*
+
+
+## 15.10.2020
+
+* Pinbar sejauh ini yang terbukti adalah di TFH1 dan TFM15
+* Jangan buka breakout jika ada Pinbar di TFM15
+* Untuk Santai psikologis, buka 0.1 Lot di depo $1500
 
 
 
