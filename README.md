@@ -191,12 +191,18 @@
 * Rata2 profit sempurna bisa 20%, tetapi terjelek adalah 5% per bulan
 
 
-## 15.10.2020
+### 15.10.2020
 
 * Pinbar sejauh ini yang terbukti adalah di TFH1 dan TFM15
 * Jangan buka breakout jika ada Pinbar di TFM15
 * Untuk Santai psikologis, buka 0.1 Lot di depo $1500
+* Pinbar di TFM5 masih sangat berbahaya
 
+
+### 16.10.2020
+
+* Jangan menggunakan strategi breakout jika ada sebuah fundamental kuat
+*
 
 
 
