@@ -202,7 +202,14 @@
 ### 16.10.2020
 
 * Jangan menggunakan strategi breakout jika ada sebuah fundamental kuat
-*
+
+
+### 19.10.2020
+
+* Pinbar di TFM15 bisa saja salah, buatlah sebuah pending order di bawah ekornya
+* Psikologi trading harus tetap dijaga karena market akan bergerak berlawanan arah entah kapan
+* Trading adalah marathon dan waiting game
+
 
 
 
