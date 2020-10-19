@@ -207,6 +207,7 @@
 ### 19.10.2020
 
 * Pinbar di TFM15 bisa saja salah, buatlah sebuah pending order di bawah ekornya
+* Pinbar terkuat adalah di TFH1 dan TFM15 dengan bantuan BB
 * Psikologi trading harus tetap dijaga karena market akan bergerak berlawanan arah entah kapan
 * Trading adalah marathon dan waiting game
 
