@@ -1,4 +1,6 @@
-# trading-journal
+# trading-journal:
+
+## Gertaone Hedge Fund Goals: 1% / days profit!
 
 ### 07.09.2020:
 
@@ -212,6 +214,10 @@
 * Trading adalah marathon dan waiting game
 
 
+### 22.10.2020
+
+* Satu orang hanya bisa fokus di satu akun saja
+* Tidak ada teknik yang holy grail banget, pasti ada errornya
 
 
 
