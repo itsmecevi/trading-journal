@@ -1,7 +1,6 @@
 # trading-journal:
 
 ## Gertaone Hedge Fund Goals: 1% / days profit!
-## Target $10 pro days from $1000
 
 * Gertaone Scalping (Breakout)
 * Gertaone Hedging
