@@ -1,11 +1,145 @@
 # trading-journal:
 
 ## Gertaone Hedge Fund Goals: 1% / days profit!
+## Target $10 pro days from $1000
 
-* Gertaone Scalping Breakout
+* Gertaone Scalping (Breakout)
 * Gertaone Hedging
 * Gertaone Risk Management
 __________________________________________
+
+## Gertaone Scalping:
+* Modal $1000
+* OP 0.1 Lot
+* Strategi Breakout
+* Jangan Pakai Robot TP
+* Cut Loss Ketika Loss 3$
+* Jangan Hedging, akan pusing sendiri jika tidak terbiasa
+* Jangan OVERLOT
+
+## Gertaone Hedging:
+* Modal $1000
+* OP 0.02 Lot
+* Hedging max 2 pasang (2 buy dan 2 sel @0.02)
+* Risk 30 pips (fix risk)
+* Menentukan arah
+* Menentukan batasan (BB, MA5High SMA close, MA5Low SMA Close)
+* Untuk non-emas atau pair aturannya adalah 3x Lot
+
+## Gertaone Risk Management:
+* Aturan Lot dan risk tetap (fix risk, variable profit)
+* TEAM-UP!
+
+__________________________________________________________________________
+
+### 16.07 - 10.08 2020:
+
+* SOP Indikator itu penting, jangan mencoba menganalisa pasar, gunakanlah sistem
+* Hindari Sideway
+* Breakout atau Continuation BB no problem
+* Perhatikan GU, karena GU lbh sensitif dari EU, dan GU mendahului EU
+* Jika tidak sesuai SOP indikator, maka ABC (Asal Biru Cabut)
+* Perhatikan RSI (buy di bawah, sell di atas)
+* Sesi Terbaik Siang: 13:00-16:00
+* Jika terjadi kebalikan dari USDX, maka itu merupakan koreksi
+* Lot kecil untuk percobaan diperbolehkan
+* Jangan percaya Chart Pattern (untuk scalping)
+* Evaluasi: SOP, Managemen Lot, Managemen Emosi
+* Jangan buka OP di EU dan GU sekaligus
+* Keluar SOP boleh, asal 001 lot
+* Jika tidak sesuai SOP, maka ABC (Asal Biru Cabut)
+* Jika indikator terlalu cepat muncul, maka lihat TREND
+* Jangan melawan arah terlalu lama
+* Jangan terlalu percaya USDX diem berarti akan naik/turun
+* GU selalu lebih dahulu, jadi buka OP di EU ketika sinyal GU
+* Lebih ketat ke SOP
+* Jangan terlalu percaya USDX-tidak selalu relevan 
+* Jangan OP di market sideway, kecuali breakout
+* 1000$ max sekali OP 0.1, Jangan LEBIH!!!!
+* Maksimum OP 0.1 Lot, bukan 1 Lot!
+* Jangan percaya USDX terlalu berlebih
+* Cut Loss Aja untuk 0.1 Lot, jangan nunggu harapan!
+* Jangan yakin dengan buka OP lagi 
+* OP 0.1 , lalu Cut Loss 0.1
+* Jangan buka OP selain sudah Cut Loss
+* Buy pd saat di RSI bawah, Sell pd saat di RSI atas
+* Jangan melawan Tren
+* Jangan Ragu menggunakan Indikator Tren, karena sangat powerfull
+* Tunggu CS selanjutnya jika mau OP tentang kejenuhan (Kail pancang pola)
+* Jika mau bentuk pola kail, tunggu sampai minimum 2 CS pergerakan besar
+* Jangan serakah, ABC walau berapapun Lot nya
+* Entry Posisi ketika sedang koreksi
+* Kontrol Emosi, Max OP 1 Lot untuk 10.000$, Kontrol SOP
+* Jangan terlalu percaya RSI
+* Kalau Mau Lot banyak ala BBMA OA, silahkan pakai Indikator UTS dengan mengecilkan Lot nya
+* Jangan Balas Dendam, jika ada Loss, yang penting target terpenuhi, yaitu 1% per hari dari seluruh modal
+* Fix 0.1 Lot dari 1000$
+* Jam 13-16
+* Jam 19-22
+* Kalau ada Pinbar mending cut loss aja, atau buka posisi setelah pinbar
+* Cut Loss klo sudah 3$ di angka buka 0.1 Lot dengan modal %1000
+* Buka 5 Lot di depo 1000$ bunuh diri!!!!!
+* Aturan SOP, harus CUT LOSS ketika sudah 3$ buka OP 0.1 Lot
+* Please CEVI, situ ga sanggup menerima , mau gila apa, SOP SOP-> OVERLOT
+* Pada saat tren besar ada pinbar, maka akan berlanjut
+* Perhatikan BBMA S&R nya
+* 19:30 candle tinggi, siap2 jam 19:00
+* Buy Jika ada CS Doji arah ke atas di Low BB
+CS doji berlaku dibarengi dgn BB
+Jangan 1 Lot, klo tidak semua UTS indikator nyala
+Fix 0.01 Lot
+News Yang medium nunggu dulu indikator UTS
+Tunggu CS selanjutnya untuk OP
+Kalau USDX tetep, tunggu reversal 
+Klo News dan USDX bentrok, jangan OP
+Setelah ada tren kuat, ada tipis2 reversal 
+CS Pinbar saat TRend sangat Powerfull, tp jangan dipakai jika tidak min ekor 3x badan
+News Memang Powerfull, lihat jika terjadi sideway sessat, artinya harga berubah menekan, tp belum, usahakan OP sesuai news pada saat support sideway
+Pinbar sangat Powerful dipadukan dengan SR level TF diatasnya
+Lebih Powerfull Pinbar yang searah tren, atau searah reversal
+Daripada 1 Lot, mending 01 tapi main panjang, jika ada data fundamental
+USDX bergerak setelah CS, jadi CS lebih dipercaya 
+CS + USDX powerfull
+Acuan OP kuat adalah Low BB dan High BB dengan Pinbar dan SR jg RSI
+CS, SR, USDX
+Low BB, SR, dan CS paling powerfull
+Low BB, SR, dan CS paling powerfull bisa untuk 1 Lot
+Jika di area SR ambil tipis tipis profit, karena belum ada pinbar, bisa jadi ada reversal 
+Pinbar terkuat ketika dipadukan dengan BB, tapi CS pinbar sendiri cukup kuat
+Lebih dari satu pinbar, akan lebih kuat 
+Averaging tidak diperbolehkan dalan day trading
+Ketika ada pola kail, pinbar muncul, tunggu beberapa CS dulu, usahak di Mid BB
+Tidak semua pinbar kuat, akan kuat jika dikombinasikan dengan SR
+Jam 13-16:30
+Jam 19:22
+Scalping jangan ada big news!!!!!!!
+Jangan menggunakan 1 Lot
+Economic Calendar medium impact, not small impact
+Untuk 1000$, jangan buka 1 Lot, hancur semua
+BUKA 0.1 Lot lalu hit n RUN
+Jangan buka Bootstraped, tapi kembali ke modal awal saja
+Membuka Bootstraped akan memperbesar risk
+Pinbar, SR, dan Chart Pattern
+Jika Pola Chart yg terbentuk tidak sesuai, maka jangan OP
+RSI di atas bukan berarti akan turun, tapi meminimalisir risk
+Pola Kail berfungsi juga di tf1 menit
+Pinbar, SR  Chart Pattern
+Untuk 1000$ Jangan menggunakan 5 Lot, atau 1 Lot
+News lemah yang keluar, akan keluar koreksi dl tdk langsung searah news, atau jika perbedaan prediksinya tidak terlalu besar
+Jika ada news lemah dan medium, maka akan ada koreksi
+100$ untuk 0.01 Lot, dan berlaku kelipatannya
+Lebih baik kehilangan momentum, mendapat momentum loss
+Jika melebihi SR, maka tunggu dulu sampai menyentuh SR kembali, krn ada kemungkinan akan trs melewati SR
+Jika memakai news, ada koreksi dahulu dan makin dalam, lihat RSI terlama, lalu ketika makn lama, maka akan ada pergerakan yang besar sesuai dengan news
+Usahakan buy pada di bawah RSi, dan Sell di atas RSI
+Jangan melakukan Averaging
+Cut loss aja ketika sudah mencapai berapa, pasar tidak tertebak
+Fundamental akan memperkuat hipotesis
+SOP Pinbar-Pinbar, BB, Dan MA5HIGH MA5LOW, MA200
+*
+*
+*
+
 
 ### 07.09.2020:
 
