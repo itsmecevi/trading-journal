@@ -29,6 +29,14 @@ __________________________________________
 * Aturan Lot dan risk tetap (fix risk, variable profit)
 * TEAM-UP!
 
+## Gertaone Trading Mindset:
+*
+*
+*
+*
+*
+
+
 __________________________________________________________________________
 
 ### 16.07 - 10.08 2020:
@@ -84,7 +92,7 @@ __________________________________________________________________________
 * Perhatikan BBMA S&R nya
 * 19:30 candle tinggi, siap2 jam 19:00
 * Buy Jika ada CS Doji arah ke atas di Low BB
-CS doji berlaku dibarengi dgn BB
+* CS doji berlaku dibarengi dgn BB
 Jangan 1 Lot, klo tidak semua UTS indikator nyala
 Fix 0.01 Lot
 News Yang medium nunggu dulu indikator UTS
