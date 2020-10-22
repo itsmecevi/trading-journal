@@ -93,59 +93,57 @@ __________________________________________________________________________
 * 19:30 candle tinggi, siap2 jam 19:00
 * Buy Jika ada CS Doji arah ke atas di Low BB
 * CS doji berlaku dibarengi dgn BB
-Jangan 1 Lot, klo tidak semua UTS indikator nyala
-Fix 0.01 Lot
-News Yang medium nunggu dulu indikator UTS
-Tunggu CS selanjutnya untuk OP
-Kalau USDX tetep, tunggu reversal 
-Klo News dan USDX bentrok, jangan OP
-Setelah ada tren kuat, ada tipis2 reversal 
-CS Pinbar saat TRend sangat Powerfull, tp jangan dipakai jika tidak min ekor 3x badan
-News Memang Powerfull, lihat jika terjadi sideway sessat, artinya harga berubah menekan, tp belum, usahakan OP sesuai news pada saat support sideway
-Pinbar sangat Powerful dipadukan dengan SR level TF diatasnya
-Lebih Powerfull Pinbar yang searah tren, atau searah reversal
-Daripada 1 Lot, mending 01 tapi main panjang, jika ada data fundamental
-USDX bergerak setelah CS, jadi CS lebih dipercaya 
-CS + USDX powerfull
-Acuan OP kuat adalah Low BB dan High BB dengan Pinbar dan SR jg RSI
-CS, SR, USDX
-Low BB, SR, dan CS paling powerfull
-Low BB, SR, dan CS paling powerfull bisa untuk 1 Lot
-Jika di area SR ambil tipis tipis profit, karena belum ada pinbar, bisa jadi ada reversal 
-Pinbar terkuat ketika dipadukan dengan BB, tapi CS pinbar sendiri cukup kuat
-Lebih dari satu pinbar, akan lebih kuat 
-Averaging tidak diperbolehkan dalan day trading
-Ketika ada pola kail, pinbar muncul, tunggu beberapa CS dulu, usahak di Mid BB
-Tidak semua pinbar kuat, akan kuat jika dikombinasikan dengan SR
-Jam 13-16:30
-Jam 19:22
-Scalping jangan ada big news!!!!!!!
-Jangan menggunakan 1 Lot
-Economic Calendar medium impact, not small impact
-Untuk 1000$, jangan buka 1 Lot, hancur semua
-BUKA 0.1 Lot lalu hit n RUN
-Jangan buka Bootstraped, tapi kembali ke modal awal saja
-Membuka Bootstraped akan memperbesar risk
-Pinbar, SR, dan Chart Pattern
-Jika Pola Chart yg terbentuk tidak sesuai, maka jangan OP
-RSI di atas bukan berarti akan turun, tapi meminimalisir risk
-Pola Kail berfungsi juga di tf1 menit
-Pinbar, SR  Chart Pattern
-Untuk 1000$ Jangan menggunakan 5 Lot, atau 1 Lot
-News lemah yang keluar, akan keluar koreksi dl tdk langsung searah news, atau jika perbedaan prediksinya tidak terlalu besar
-Jika ada news lemah dan medium, maka akan ada koreksi
-100$ untuk 0.01 Lot, dan berlaku kelipatannya
-Lebih baik kehilangan momentum, mendapat momentum loss
-Jika melebihi SR, maka tunggu dulu sampai menyentuh SR kembali, krn ada kemungkinan akan trs melewati SR
-Jika memakai news, ada koreksi dahulu dan makin dalam, lihat RSI terlama, lalu ketika makn lama, maka akan ada pergerakan yang besar sesuai dengan news
-Usahakan buy pada di bawah RSi, dan Sell di atas RSI
-Jangan melakukan Averaging
-Cut loss aja ketika sudah mencapai berapa, pasar tidak tertebak
-Fundamental akan memperkuat hipotesis
-SOP Pinbar-Pinbar, BB, Dan MA5HIGH MA5LOW, MA200
-*
-*
-*
+* Jangan 1 Lot, klo tidak semua UTS indikator nyala
+* Fix 0.01 Lot untuk $100
+* News Yang medium nunggu dulu indikator UTS
+* Tunggu CS selanjutnya untuk OP
+* Kalau USDX tetep, tunggu reversal 
+* Klo News dan USDX bentrok, jangan OP
+* Setelah ada tren kuat, ada tipis2 reversal 
+* CS Pinbar saat Trend sangat Powerfull, tp jangan dipakai jika tidak min ekor 3x badan
+* News Memang Powerfull, lihat jika terjadi sideway sesaat, artinya harga berubah menekan, tp belum, usahakan OP sesuai news pada saat support sideway
+* Pinbar sangat Powerful dipadukan dengan SR level TF diatasnya yang lebih besar
+* Lebih Powerfull Pinbar yang searah tren, atau searah reversal
+* Daripada 1 Lot, mending 01 tapi main panjang, jika ada data fundamental
+* USDX bergerak setelah CS, jadi CS lebih dipercaya 
+* CS + USDX powerfull
+* Acuan OP kuat adalah Low BB dan High BB dengan Pinbar dan SR jg RSI
+* CS, SR, USDX
+* Low BB, SR, dan CS paling powerfull
+* Low BB, SR, dan CS paling powerfull bisa untuk 1 Lot
+* Jika di area SR ambil tipis tipis profit, karena belum ada pinbar, bisa jadi ada reversal 
+* Pinbar terkuat ketika dipadukan dengan BB, tapi CS pinbar sendiri cukup kuat
+* Lebih dari satu pinbar, akan lebih kuat (double Pinbar)
+* Averaging tidak diperbolehkan dalam day trading (averaging: buka posisi 2x lebih besar Lot)
+* Ketika ada pola kail, pinbar muncul, tunggu beberapa CS dulu, usahakan di Mid BB
+* Tidak semua pinbar kuat, akan kuat jika dikombinasikan dengan SR
+* Jam 13-17
+* Jam 19:22
+* Scalping jangan ada big news!!!!!!!
+* Jangan menggunakan 1 Lot untuk $1000, 1 Lot untuk $10.000
+* Economic Calendar medium impact, not small impact
+* Untuk 1000$, jangan buka 1 Lot, hancur semua
+* BUKA 0.1 Lot lalu hit n RUN untuk $1000
+* Jangan buka Bootstrap, tapi kembali ke modal awal saja
+* Membuka Bootstrap akan memperbesar risk
+* Pinbar, SR, dan Chart Pattern
+* Jika Pola Chart yg terbentuk tidak sesuai, maka jangan OP
+* RSI di atas bukan berarti akan turun, tapi meminimalisir risk dan memperbesar peluang profit
+* Pola Kail berfungsi juga di tf1 menit
+* Pinbar, SR, Chart Pattern
+* Untuk $1000 Jangan menggunakan 5 Lot, atau 1 Lot, cukup gunakan 0.1 Lot HIT and RUN
+* News lemah yang keluar, akan keluar koreksi dl tdk langsung searah news, atau jika perbedaan prediksinya tidak terlalu besar
+* Jika ada news lemah dan medium,kemungkinan akan ada koreksi
+* 100$ untuk 0.01 Lot, dan berlaku kelipatannya
+* Lebih baik kehilangan momentum, daripada memaksakan mendapat momentum loss
+* Jika melebihi SR, maka tunggu dulu sampai menyentuh SR kembali, krn ada kemungkinan akan trs melewati SR
+* Jika memakai news, ada koreksi dahulu dan makin dalam, lihat RSI terlama, lalu ketika makin lama, maka akan ada pergerakan yang besar sesuai dengan news
+* Usahakan buy pada di bawah RSi, dan Sell di atas RSI untuk memperbesar kemungkinan profit
+* Jangan melakukan Averaging
+* Cut loss aja ketika sudah mencapai berapa, pasar tidak tertebak, mengindari loss yang lebih besar 
+* Fundamental akan memperkuat hipotesis
+* SOP Pinbar-Pinbar, BB, Dan MA5HIGH MA5LOW, MA200
+
 
 
 ### 07.09.2020:
