@@ -223,7 +223,10 @@
 ### 22.10.2020
 
 * Kadang lambat memutuskan dan terlalu cepat memutuskan
-* 
+* Sistem breakout masih menjadi andalan karena lebih terprediksi secara risk dan profit
+* Sistem Hedging merupakan backup dari kegagalan sistem breakout
+* Kelemahan sistem hedging adalah risk yang tetap, sedangkan profit yang tidak terukur
+
 
 
 
