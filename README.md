@@ -2,9 +2,10 @@
 
 ## Gertaone Hedge Fund Goals: 1% / days profit!
 
-* Gertaone Scalping
+* Gertaone Scalping Breakout
 * Gertaone Hedging
 * Gertaone Risk Management
+__________________________________________
 
 ### 07.09.2020:
 
