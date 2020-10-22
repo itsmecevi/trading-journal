@@ -2,6 +2,10 @@
 
 ## Gertaone Hedge Fund Goals: 1% / days profit!
 
+* Gertaone Scalping
+* Gertaone Hedging
+* Gertaone Risk Management
+
 ### 07.09.2020:
 
 * 08:00-> Setelah ada doji di tfm1 yang melawan tren, maka akan terjadi pergerakan besar
