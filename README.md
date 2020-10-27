@@ -423,6 +423,9 @@ __________________________________________________________________________
 * Ambil profit di TFM1 saja karena lebih aman
 * Lebih baik ketinggalan momentum, daripada masuk OP tidak dengan sistem
 * Hindari TFH4, berkali-kali menimbulkan masalah serius pada trading
+* Pengendalian diri yang utama dalam sebuah trading
+
+
 
 
 
