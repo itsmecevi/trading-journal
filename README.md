@@ -98,13 +98,90 @@ Dari tiga karakter tersebut maka dapat kita buat kesimpulan bahwa Emas akan dili
 Dan satu hal juga yg saya yakin luput dari pemantauan trader/investor adalah bahwa 2019 terutama kuartal terakhir pasar saham terutama wallstreet menunjukkan kenaikan yg cukup besar maka banyak pelaku akan meliquid saham ambil untungnya untuk berpindah keemas dan ini juga salah satu alasan yg membuat emas strong Bullish. 
 
 
-* Kerugian dalam trading seperti sebuah luka. Luka yang kecil membutuhkan obat yg sedikit luka yg besar membutuhkan obat yang besar. 
+* Kerugian dalam trading seperti sebuah luka. 
+
+Luka yang kecil membutuhkan obat yg sedikit luka yg besar membutuhkan obat yang besar. 
 Contoh sederhana adalah jika kita loss 40 pips maka kita butuh profit 40+ pips untuk menutupi . Apabila kita rugi 100 pips maka kita butuh 100+ pips untuk menutup kerugian tersebut. Maka pertanyaannya lebih gampang kita cari 40 pips atau 100 pips ? Mmg kadang kadang ini gampang dibicarakan sulit di laksanakan .
 Apa yg menyebabkan sulit ? Karena kita sebagai manusia memiliki sifat dasar tidak mau rugi dan bagi yang punya pengalaman trading punya sifat mempertahankan analisa awal. Betul tidak ? ( baca cara aa gym )😅 Ditambah lagi ada kekhawatiran jika stop loss kecil harga berbalik. Betul ? Sebenarnya begitu kita OP dan minus tertentu sesungguhnya prediksi kita sudah 70% salah . Jika harga berbalik maka 30% lah yg terjadi. Apakah kita selalu mengalami yg 30% ? Artinya setiap minus selalu berbalik ? Sy kembalikan kpd teman2.
 
 Berapakah stop loss yg ideal ? Bagi saya stop loss maksimum yg ideal adalah :
 50% x rata2 pergerakan harian sebuah pair. 
 Alasannya : jika itu terjadi besok saya selalu memiliki peluang untuk menutupnya. 
+
+
+* INKONSISTENSI:
+
+Trader memiliki kebiasaan memperhatikan chart apalagi setelah OP. Akibat dari memperhatikan chart tersebut kita terkadang akan tergoda untuk merubah titik TP / SL yang kita buat atau kadang juga membatalkannya. Kenapa ? Karena sebagai manusia kita memiliki sifat serakah,tidak mau rugi atau bahkan sebaliknya juga penakut. 
+TP di geser keatas krn harga terlihat kuat.
+SL di geser kebawah karena takut kena. Dan seterusnya. 
+Sesekali kita akan diuntungkan akibat tindakan tersebut . Tapi tanpa kita sadari kita sedang memupuk sebuah kebiasaan terburuk dalam trading yaitu INKONSISTEN.
+Contoh mengatasi :
+Pada saat kita ingin menggeser ingat saja jika kita pernah rugi 100pips kenapa kita tidak boleh profit 100pips. 
+
+Ingat geser / cancel TP/SL blm tentu salah tapi kebiasaan menjadi buruk. 
+
+* Manajemen Lot:
+
+Banyak mentor atau trader sering menyebut MM money management atau CM capital management merupakan salah satu faktor yang menentukan keberhasilan dalam trading. Salah satunya adalah menentukan lot atau size. 
+Jika kita terbiasa bertransaksi dengan lot yang variatif maka ada sebuah tuntutan bahwa setiap kali lot besar kita harus benar karena jika salah biasanya akan langsung mengusik psikologi kita apa saja :
+1. Kita akan terpancing untuk membalas dengan lot yang lebih besar lagi yang mana ini biasanya sudah tidak rasional lagi dengan kondisi pasar. 
+2. Sebaliknya nyali kita malah hilang hingga balik lagi ke lot kecil dan ini akan mengakumulasi kekecewaan dalam trading.
+3. Strategi yang telah disusun cenderung berantakan karena dalam trading biasanya psikologi kita selalu mengajak kita untuk segera menutup kerugian bukan lagi kpd profit sesuai strategi. 
+Pemahaman ini tentu tidak pas untuk para martiangle yg menggunakan lot besar sistem piramid. 
+Bagi yg merubah lot krn keyakinan analisa juga tidak salah.
+
+* Data Fundamental:
+
+1. Data ekonomi akan dikeluarkan oleh otoritas masing2 negara. 
+2. Data ekonomi umumnya berupa data bulan sebelumnya , prediksi kemudian data aktual.
+3. Yang kita tunggu adalah data aktual dijam dan hari yg sdh ditentukan.
+4. Jika data aktual yg keluar lbh baik dari prediksi maka secara teori mata uang negara tsb akan menguat karena ekonominya di anggap membaik dan sebaliknya jika data aktual buruk maka akan melemah. 
+
+Itu adalah sebuah pemahaman logis dari data ekonomi. Tapi apakah dalam prakteknya akan semudah itu ? Rekan2 yang sering menggunakan akan tahu jawabannya. 
+
+Sebelum lanjut saya ingin kita sepakat : 
+1. Trading bukan ilmu pasti / matematik 1+ 1 tidak akan selalu menjadi 2. 
+2. Market bukan sinterclass yang akan dgn gampang memberi kita profit dgn cara2 gampang. 
+
+Jika kita sepakat maka data ekonomi tidak akan selalu seperti rumus no.4 diatas jika bagus buy jika jelek sell karena jika itu benar buat apa lagi ada analisa lain tinggal tunggu aja data setiap hari dari sekian banyak pair, ga ada lagi orang loss betul ?
+Tapi bukan berarti salah terus kalau salah terus buat apa donk itu data ? 
+
+Berarti yang menjadi pertanyaan kapan dia akan sesuai dan kapan dia akan menipu 
+
+Berikut adalah beberapa pengalaman atau tips terkait rilis data ekonomi perihal akurat atau tidak jgn langsung dipercaya silakan di uji terlebih dahulu. 
+
+1. Data ekonomi tidak  bisa melawan trend. Jika trend market naik maka data ekonomi buruk tidak akan mampu menurunkan harga. Jadi disaat trend naik jangan ambil sell walau data ekonomi buruk begitu juga sebaliknya. ( untuk trading jangka panjang ).
+
+2. Untuk janga pendek yg mau memanfaatkan data perhatikan hal hal ini: 
+a. data yang menggoda anda buy di harga rendah biasanya adalah menipu.
+b.  data yang menggoda anda sell diharga tinggi biasanya adalah menipu.
+c. Data Sell  yg membuat anda takut sell  adalah kebanyakan benar.
+d. Data buy yg membuat anda takut buy adalah kebanyakan benar.
+
+Anda pernah dengar prinsip " Too Good To be True ? " Masa iya segampang itu" itulah market 
+
+3. Dan sebuah rahasia LP / Liquidity provider / bandar / pedagang atau apapun sebutannya paling suka moment data news ini karena inilah moment trader kalau untung biasanya kecil kalau loss biasanya besar. Mengapa demikian ? Karena jika benar biasanya trader akan keluar cepat akibat gerakan bolak balik yg cepat dan jika salah trader akan cenderung menunggu dan biasanya tidak memiliki waktu untuk memasang TP/SL ? Punya pengalaman ? 🤪
+ Dan satu lagi ada yang coba memanfaatkan buystop / sellstop siap2 dengan spread karet 😅. 
+Sy yakin banyak trader tau akan hal ini. Saya hanya menyimpulkan saja bukan hal baru bagi sebagian orang.
+
+4. Untuk NFP jg berlaku sama namun untuk NFP saya memiliki catatan yg sering di abaikan orang . Pada saat NFP us ada sebuah data yaitu unemployment rate. Data ini juga memiliki pengaruh besar dan bahkan lebih besar dari NFP namun data ini jarang berubah berkisar di 3 sekian pesen yaitu data pengangguran jika data ini berubah market cenderung akan mengikuti. Biasanya orang kurang memperhatikan data ini karena terlalu asyik dgn NFP.
+
+Sebenarnya penjelasan lbh detail masih ada lagi mengenai data ini namun agak sulit saya buat dalam bentuk tulisan mungkin akan lbh mudah dengan tabel karena terkait posisi trend , data keluar , reaksi lompatan harga , data lebih dari satu dijam atau hari yg sama dll. Akan saya upayakan di lain waktu. 
+
+Jadi kesimpulan untuk hari ini adalah : 
+1. Data tdk akan merubah trend market.
+2. Market tidak akan memberi kemudahan lewat data. Disaat kita sangat yakin dgn data biasanya disitu agak berbahaya karena prinsip too good to be true tadi.
+3. Jika anda merasa mental msh kurang kuat hindari trade saat news data akan lbh bijak.
+
+* Harga saham gabungan Nasdaq, S&P 500, Dow Jones, Nikkei, Hangseng-> Trading cari uang, bukan cari OP
+
+* Profit Happy & Loss Sad-> Trader yang LEMAH!
+
+* Locking / Hedging:
+
+
+
+
 
 
 __________________________________________________________________________
