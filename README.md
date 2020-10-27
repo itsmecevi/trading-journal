@@ -51,8 +51,21 @@ Biasanya disaat seperti itu nalar kita sdh menipis yang ada adalah emosi. Hindar
 Leverage sesuai artinya adalah daya ungkit dimana dengan sesuatu yg kecil kita dapat mengangkat barang yang besar. Contohnya dongkrak. Dalam trading leverage terkait dengan modal yang kita pakai untuk mentransaksikan sebuah kontrak yang nilainya sangat besar. Contoh leverage 1 : 100 Forex kita memakai uang 1000 untuk membeli 100.000. Dengan adanya leverage ini menyebabkan keuntungan dan kerugian dalam derivatif terkesan besar dan yg membuat besar itu adalah karena mayoritas modal yg digunakan kecil. Bagi yg tidak paham leverage akan mengatakan resiko besar uang saya habis padahal uang yg diinvestasikan kebanyakan mmg jauh dari value transaksinya. Ibarat modal 10.000.000 bayar DP apt yg harganya 1M . Kalau harga apt turun jadi 990.000.000 ya uang kita yg 10.000.000 habis buat bayar rugi apt tsb. Sedangkan penurunan aptnya sendiri tidak besar besar amat. Sebagian yg sdh lama sy yakin paham tapi tidak sedikit saya temukan trader / investor yg tidak paham sehingga menganggap bisnis derivatif resikonya besar. Padahal leverage ini lah yg membuat terasa besar. Atas dasar prinsip leverage ini maka peluang keuntungan juga sangat besar.
 
 
-*
+* Kenapa dalam Trading kita membutuhkan Trading Plan / Rencana ? 
 
+Alasannya karena kita adalah manusia , dan manusia itu tempatnya lupa , tidak teliti , serakah, Galau , takut dll. Ingat trading adalah pengambilan keputusan. Mengambil keputusan untuk buy sell stop loss take profit cover wait and see itulah keputusan yang akan diambil oleh trader/ investor. Keputusan diambil berdasarkan kondisi market. Mata kita saat melihat market lalu mengirim pesan kepada otak untuk otak mengambil keputusan. Dan proses itu memerlukan waktu. Dalam trading sometime pergerakan harga lebih cepat dari proses tersebut. Contoh harga sedang naik kita berfikir untuk cutloss saat mau action harga sudah turun kemudian tidak jadi dan seterusnya dan seterusnya yg sejenis. Oleh karena itu maka trading plan menjadi penting. Sebelum harga terjadi kita sdh tau apa yg mau dilakukan.
+
+* Perdagangan Derivatif Forex , Gold , Index dkk bisa diibaratkan sebuah tambang namun kita tidak perlu memiliki tanah:
+
+Seperti tambang didalam market ada sejumlah uang dalam jumlah besar yang bisa  terus kita gali. Artinya Potensi yang ada didalamnya besar sama seperti sebuah tambang. Namun untuk menggali sebuah tambang tentu tidak gratis anda harus mahir , memiliki peralatan , memiliki pengalaman dan modal uang. Sedangkan di market Derivatif kita tidak perlu sebanyak itu. Yang kita butuhkan terbesar adalah Modal dari Tuhan. " OTAK" . Semoga makna filosofisnya bisa diterima. Tetap semangat.
+
+
+* Apakah trading robot ?
+
+Trading robot adalah sebuah software yang ditanamkan ke dalam suatu platform dengan perintah action trading otomatis berdasarkan algoritma tertentu yg didesign oleh pembuatnya. Apakah robot membantu ? Iya dari aspek memudahkan kita dan mengurangi resiko lupa dan semua kelemahan manusia namanya juga Robot. Tapi apakah Robot pasti membuat kita sukses ? Belum tentu. Apa alasannya ? Sederhana, 1. Robot hanya bekerja berdasarkan algorithma teknis yang dibuat oleh manusia sedangkan gerakan harga dipasar dipengaruhi oleh banyak faktor dalam hal ini faktor fundamental yg tentunya tidak mampu di baca oleh si Robot. 2. Jika robot mampu menghasilkan secara konsisten seperti apa yg disampaikan penjual maka si penjual harusnya sudh sangat makmur karena hal ini untuk apa lagi robotnya dijual. ( penjual akan selalu memiliki argumen saat diutarakan hal ini ). 3. Hati2 ada robot2 tertentu yang sengaja diciptakan untuk merugikan nasabah terutama pihak yg memiliki kepentingan atas kerugian nasabah.
+
+Pada prinsipnya tidak ada yg salah dengan robot tapi pemahaman bahwa robot pasti akan lebih baik atau akan menjadikan kita trader / investor sesuai yg kita harapkan akan terwujud blm tentu. Dengan tanpa bermaksud mendeskriditkan sebuah kreatifitas teknologi saya berharap teman2 dapat menangkap substansinya. 
+Saya tergelitik menulis ini karena banyak sekali saya lihat orang yg terjebak dengan pemahaman robot trading ini bahkan tidak sedikit yg MC. 
 
 __________________________________________________________________________
 
@@ -408,6 +421,8 @@ __________________________________________________________________________
 
 * Ketika hampir kena batas H1 dan H4 maka bisa langsung OP jika kondisi CS bergerak kencang
 * Ambil profit di TFM1 saja karena lebih aman
+* Lebih baik ketinggalan momentum, daripada masuk OP tidak dengan sistem
+
 
 
 
