@@ -67,6 +67,24 @@ Trading robot adalah sebuah software yang ditanamkan ke dalam suatu platform den
 Pada prinsipnya tidak ada yg salah dengan robot tapi pemahaman bahwa robot pasti akan lebih baik atau akan menjadikan kita trader / investor sesuai yg kita harapkan akan terwujud blm tentu. Dengan tanpa bermaksud mendeskriditkan sebuah kreatifitas teknologi saya berharap teman2 dapat menangkap substansinya. 
 Saya tergelitik menulis ini karena banyak sekali saya lihat orang yg terjebak dengan pemahaman robot trading ini bahkan tidak sedikit yg MC. 
 
+* Kesalahan Trader / Investor:
+
+Salah satu kesalahan Trader / Investor adalah terus mencari indikator yang sempurna ( secara tidak sadar ) setiap kali sebuah indikator salah walaupun 2 atau 3 kali sebelumnya benar tidak akan membuat mereka puas. 
+Mereka akan terus mencari mencoba mencari dan mencoba . Mencari suhu atau master atau apapun sebutannya yang dianggap dpt membocorkan indikatornya. 
+
+Pada akhirnya pencarian ini akan berakhir dengan keputusasaan krn diterjang badai MC ( semoga anda tidak ). 
+Percayalah bahwa indikator sempurna itu tidak pernah ada paling tidak hingga hari ini. 
+Kenapa ? 
+Bayangkan market derivatif sdh ada sejak kpn ? Dan pasti sudah melahirkan orang pandai dalam trading knp tdk melahirkan orang terkaya nomor satu dr sana padahal gerakan forex / derivatif jika benar terus bisa menghasilkan berapa dlm satu hari. Betul ? 
+Semua indikator sdh di test oleh penciptanya dan semua memiliki akurasinya masing2. Pilihlah beberapa yg anda nyaman itu sdh cukup. 
+Kenapa ? 
+Ingat market ini hanya 50 : 50 yg bikin susah itu kita.
+
+
+* Karakter Emas XAUUSD-> Gold Spot:
+
+
+
 __________________________________________________________________________
 
 ### 16.07 - 10.08 2020:
@@ -424,6 +442,7 @@ __________________________________________________________________________
 * Lebih baik ketinggalan momentum, daripada masuk OP tidak dengan sistem
 * Hindari TFH4, berkali-kali menimbulkan masalah serius pada trading
 * Pengendalian diri yang utama dalam sebuah trading
+* SOP SOP SOP SOP SOP SOP SOP SOP
 
 
 
