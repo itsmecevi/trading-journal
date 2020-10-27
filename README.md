@@ -80,9 +80,31 @@ Semua indikator sdh di test oleh penciptanya dan semua memiliki akurasinya masin
 Kenapa ? 
 Ingat market ini hanya 50 : 50 yg bikin susah itu kita.
 
-
 * Karakter Emas XAUUSD-> Gold Spot:
 
+1. Emas adalah salah satu underlying yang dijadikan oleh seluruh negara sebagai cadangan devisa karena sewaktu2 bisa dijual.
+2. Emas merupakan salah satu instrumen investasi keuangan tiga besar diluar USD dan Saham. 
+3. Emas sering disebut sebagai safe heaven karena sifatnya yang stabil. Sehingga dalam situasi normal emas tidak dilirik investor karena inv lbh suka akan volatilitas saham yang jauh lebih besar. 
+
+Dari tiga karakter tersebut maka dapat kita buat kesimpulan bahwa Emas akan dilirik saat terjadi instabilitas. Artinya demand nya akan bertambah. 
+
+* Bagi kita sebagai trader kecil ingusan maka harus memetik pelajaran dari fenomena Gold ini, apa saja :
+
+1. Pasar digerakkan oleh sebuah situasi bukan oleh teknikal kita pada saat pasar mau bergerak dia akan tabrak semua batasan2 yg ada pada teknikal.
+2. Jangan pernah ada pemikiran harga sudah tinggi atau harga sudah rendah.
+3. Jangan terbujuk dengan strategi averaging atau martiangle jika anda tidak memahami pasar itu sendiri. Bayangkan jika anda averaging sell dari bawah
+4. Korona bukan satu satunya dia hanya memboosting atau mempercepat artinya jika vaksin ternyata ditemukan jangan buru2 menyimpulkan trend akan berbalik bahwa akan ada reaksi positif itu benar.
+
+Dan satu hal juga yg saya yakin luput dari pemantauan trader/investor adalah bahwa 2019 terutama kuartal terakhir pasar saham terutama wallstreet menunjukkan kenaikan yg cukup besar maka banyak pelaku akan meliquid saham ambil untungnya untuk berpindah keemas dan ini juga salah satu alasan yg membuat emas strong Bullish. 
+
+
+* Kerugian dalam trading seperti sebuah luka. Luka yang kecil membutuhkan obat yg sedikit luka yg besar membutuhkan obat yang besar. 
+Contoh sederhana adalah jika kita loss 40 pips maka kita butuh profit 40+ pips untuk menutupi . Apabila kita rugi 100 pips maka kita butuh 100+ pips untuk menutup kerugian tersebut. Maka pertanyaannya lebih gampang kita cari 40 pips atau 100 pips ? Mmg kadang kadang ini gampang dibicarakan sulit di laksanakan .
+Apa yg menyebabkan sulit ? Karena kita sebagai manusia memiliki sifat dasar tidak mau rugi dan bagi yang punya pengalaman trading punya sifat mempertahankan analisa awal. Betul tidak ? ( baca cara aa gym )😅 Ditambah lagi ada kekhawatiran jika stop loss kecil harga berbalik. Betul ? Sebenarnya begitu kita OP dan minus tertentu sesungguhnya prediksi kita sudah 70% salah . Jika harga berbalik maka 30% lah yg terjadi. Apakah kita selalu mengalami yg 30% ? Artinya setiap minus selalu berbalik ? Sy kembalikan kpd teman2.
+
+Berapakah stop loss yg ideal ? Bagi saya stop loss maksimum yg ideal adalah :
+50% x rata2 pergerakan harian sebuah pair. 
+Alasannya : jika itu terjadi besok saya selalu memiliki peluang untuk menutupnya. 
 
 
 __________________________________________________________________________
@@ -443,6 +465,9 @@ __________________________________________________________________________
 * Hindari TFH4, berkali-kali menimbulkan masalah serius pada trading
 * Pengendalian diri yang utama dalam sebuah trading
 * SOP SOP SOP SOP SOP SOP SOP SOP
+* Jika kita sudah keluar dari SOP, atau OP tidak sesuai dengan SOP, maka dipastikan 30% kemungkinan berhasil dan 70% gagal
+* Ketika kita sudah SOP, maka 50%:50%, namun ketika sudah positif, maka artinya kita berhasil menaikan peluang dan berhasil profit
+
 
 
 
