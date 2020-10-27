@@ -422,6 +422,9 @@ __________________________________________________________________________
 * Ketika hampir kena batas H1 dan H4 maka bisa langsung OP jika kondisi CS bergerak kencang
 * Ambil profit di TFM1 saja karena lebih aman
 * Lebih baik ketinggalan momentum, daripada masuk OP tidak dengan sistem
+* Hindari TFH4, berkali-kali menimbulkan masalah serius pada trading
+
+
 
 
 
