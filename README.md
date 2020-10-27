@@ -372,6 +372,25 @@ __________________________________________________________________________
 * Kelemahan sistem hedging adalah risk yang tetap, sedangkan profit yang tidak terukur
 
 
+### 23.10.2020
+
+* Ketika ada doji di TFM1 langsung cut loss saja karena pasar tidak jelas, bisa untung besar bisa juga rugi besa, sebaiknya hindari
+* TFM15, TFM30, dan TFH1 Pinbar bisa diandalkan, tapi jangan terlalu ambil besar profit
+* Untuk 0.1 Lot, ambil saja profit Maks $1, tapi jika ada kemungkinan terus bergerak, lihat TFM1 dan sudahi di CS Close di TFM1
+
+
+## 26.10.2020
+
+* Psikologis adalah segalanya, jangan OP jika tidak tenang, kesel, atau lagi rusuh
+* Target Plan mulai dari 100, dan double it tiap 1 minggu-> lihat di Excel bagian Plan
+* Jangan OP diluar SOP yang ada, karena ketika loss, maka akan terhanyut oleh market dan tergoda untuk OP lagi
+* SOP yang ada yaitu di TFM5 MA5High MA5Low bisa sangat menyelamatkan
+
+
+## 27.10.2020
+
+* Ketika hampir kena batas H1 dan H4 maka bisa langsung OP jika kondisi CS bergerak kencang
+* Ambil profit di TFM1 saja karena lebih aman
 
 
 
