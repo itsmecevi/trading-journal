@@ -261,6 +261,16 @@ Hari ini saya akan sharing tentang masalah psikologi lagi.
 Sebagai Trader kita memiliki aktivitas yg selalu ngangenin yaitu lihat chart , nebak harga and action. Nah bagi kita yg cara tradingnya berkali kali maka ada sebuah keadaan yg menghampiri kita yaitu salah action kemudian cut loss atau stop loss. Hal yg biasa tapi kalau kita sudah kena hal ini berturut2 2 kali atau lebih secara berturut turut maka saya sarankan untuk stop dan beristirahat. Kenapa ? Karena kalau itu terjadi pikiran kita akan kacau biasanya dan cara anda melihat pasar sudah tidak rasional kita akan cenderung emosional dalam mengambil keputusan dan biasanya berantakan. 
 Percaya lah mau sehebat apapun anda trading tetap kita sebagai manusia ada hari2 yang masuk kategori kurang beruntung. Maka upayakan di hari yang kurang beruntung ruginya jangan terlalu banyak. Berfikir saja kalau anda mampu dan pasar hari itu bukan hari terakhir. 
 
+* TEAM TAG:
+
+Ditengah aktivitas trading saya akan share sebuah pengalaman yang unik dari pengalaman trading. 
+Seperti tertulis diatas jangan pernah join akun jika kalian dua2 nya bisa analisa pasar. 
+Kedengaran aneh ? Bukannya 2 orang bisa analisa jadi lebih kuat ? Sepertinya begitu tapi kenyataannya tidak justru join seperti itu akan membuat berantakan bahkan suami istri , anak orang tua bisa berantem .
+Kenapa bisa ? 
+Analisa adalah prediksi dan prediksi tidak pernah 100% benar pada saat salah satu dari anda mengatakan naik dan satu lagi turun maka anda akan memupuk masalah dari sana  Ga percaya cobain aja ....😁. 
+Masalah tidak akan terjadi jika anda selalu se iya sekata yakin bisa ? Suami istri aja bisa cerai padahal sdh ijab kabul. 
+Sebenarnya banyak lagi masalah kongsi akun ini berdasarkan pengalaman saya namun kalau di jelaskan banyak sekali . Intinya kalau 2 2 nya bisa analisa ga usah join lah sendiri2 aja.
+
 __________________________________________________________________________
 
 ### 16.07 - 10.08 2020:
