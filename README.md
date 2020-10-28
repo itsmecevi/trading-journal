@@ -664,7 +664,8 @@ __________________________________________________________________________
 ### 28.10.2020
 
 * Jangan mengurusi 2 akun, 1 akun saja sudah cukup menguras energi dan pikiran
-* 
+* Manajemen Resiko membagi akun merupakan suatu hal yang bijak
+* Hati2 dengan TFH4
 
 
 
