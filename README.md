@@ -27,7 +27,8 @@ __________________________________________
 
 ## Gertaone Risk Management:
 * Aturan Lot dan risk tetap (fix risk, variable profit)
-* TEAM-UP!
+* TEAM-UP!XXXX
+* TRADING WITH ONLY 1000$
 
 ## Gertaone Trading Mindset:
 
@@ -270,6 +271,33 @@ Kenapa bisa ?
 Analisa adalah prediksi dan prediksi tidak pernah 100% benar pada saat salah satu dari anda mengatakan naik dan satu lagi turun maka anda akan memupuk masalah dari sana  Ga percaya cobain aja ....😁. 
 Masalah tidak akan terjadi jika anda selalu se iya sekata yakin bisa ? Suami istri aja bisa cerai padahal sdh ijab kabul. 
 Sebenarnya banyak lagi masalah kongsi akun ini berdasarkan pengalaman saya namun kalau di jelaskan banyak sekali . Intinya kalau 2 2 nya bisa analisa ga usah join lah sendiri2 aja.
+
+
+* GREEDY:
+
+Obrolan dengan seorang rekan  dalam group FB minggu ini saya menjanjikan untuk membahas masalah tamak dan serakah dalam trading. Banyak yang menyatakan jangan serakah dalam trading . Apakah benar ? Tidak sepenuhnya benar. Apa alasannya ? 
+1. Pernakah anda mengalami sebuah posisi dengan loss besar ? Saya yakin pernah coba bayangkan kalau anda boleh bisa loss besar dalam sebuah posisi bukankah akan terjadi sebaliknya profit besar jika order tersebut terbalik buy jadi sell sell jadi buy. artinya market bisa memberikan keuntungan besar. 
+2. Dalam analisa technikal disediakan TF D1 hingga Monthly itu untuk siapa ? Untuk orang2 yg mmg ingin "  serakah " atau profit besar. 
+
+Sebenarnya masih banyak alasan kenapa kita boleh " serakah " atau mengambil keuntungan besar dalam market asal terukur. 
+
+Yang tidak boleh adalah : 
+
+1. Serakah tanpa paham kemampuan modal. Contoh modal 1000$ ingin untung 1000$ sehari. Walau secara logika bisa tapi secara bisnis itu salah . Bgmn bisnis 100% / hari. 
+2. Campur aduk style sdh tau kebiasaannya trading keluar masuk di paksakan hold posisi ya jadi kagok pasti. 
+3. Analisa menggunakan TF kecil tapi mencari target besar juga tidak tepat karena batasan2 TF kecil pasti tidak bisa mengukur movement besar. 
+4. Tidak mengenali karakter pair. Sehingga ada sesuatu yang membatasi gerakan harga kita tidak paham terutama fundamental . 
+5. Ingin serakah tapi mental tidak ada sehingga terkena swing / ayunan mental sudah drop dan berakhir berantakan. 
+6. Serakah bukan karena planning tapi serakah karena mau nutup kerugian ( ini yang paling berbahaya . Catat ) 
+
+Saya berharap rekan2 dapat mengambil inti dari penjelasan diatas yang saya maksud dengan serakah boleh asal terukur dan terencana dengan baik. 
+
+saya akan sharing 2 hal yang pertama adalah sebuah strategi serakah yang aman dan yang kedua adalah indikator untuk serakah.
+Karena saya perlu membuat screenshoot dan gambar2 maka saya ingin tanya dulu apakah rekan2 butuh atau tidak kalau tidak cukup dengan memahami prinsip2 diatas
+Bagaimana lanjut ?
+
+
+* Trading lah dengan sejumlah fund yang anda siap habis karena dengan psikologi itu justru sebaliknya saya lihat banyak yg berhasil.
 
 __________________________________________________________________________
 
