@@ -613,7 +613,7 @@ __________________________________________________________________________
 * Untuk 0.1 Lot, ambil saja profit Maks $1, tapi jika ada kemungkinan terus bergerak, lihat TFM1 dan sudahi di CS Close di TFM1
 
 
-## 26.10.2020
+### 26.10.2020
 
 * Psikologis adalah segalanya, jangan OP jika tidak tenang, kesel, atau lagi rusuh
 * Target Plan mulai dari 100, dan double it tiap 1 minggu-> lihat di Excel bagian Plan
@@ -621,7 +621,7 @@ __________________________________________________________________________
 * SOP yang ada yaitu di TFM5 MA5High MA5Low bisa sangat menyelamatkan
 
 
-## 27.10.2020
+### 27.10.2020
 
 * Ketika hampir kena batas H1 dan H4 maka bisa langsung OP jika kondisi CS bergerak kencang
 * Ambil profit di TFM1 saja karena lebih aman
@@ -633,6 +633,10 @@ __________________________________________________________________________
 * Ketika kita sudah SOP, maka 50%:50%, namun ketika sudah positif, maka artinya kita berhasil menaikan peluang dan berhasil profit
 
 
+### 28.10.2020
+
+* Jangan mengurusi 2 akun, 1 akun saja sudah cukup menguras energi dan pikiran
+* 
 
 
 
