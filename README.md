@@ -235,6 +235,32 @@ Ingat seorang jendral perang tidak selalu menang dalam pertempuran2 kecil.
 Tapi seorang jendral perang yg hebat selalu menang dalam perang . Bagaimana si jendral melakukannya ? STRATEGI.
 artinya mindset kita jgn disetel tiap hari harus bertempur, tiap hari harus menang pertempuran karena hampir itu tidak mungkin dan membahayakan. Tapi susunlah sebuah strategi untuk kita selalu memenangkan perang besar. Artinya jgn terbeban dan terlalu memaksa dengan hasil harian yg utama adalah akhir bulan Profit dan WD . Thats a general. 
 
+
+* Konsisten Profit:
+
+Pertama tama saya ingin rekan2 menyadari satu hal bahwa dalam trading setiap transaksi yang kita lakukan tidak akan pernah loss terus dan tidak akan pernah profit terus, setuju ? Nah yang sering membuat kita frustasi adalah hasil akhir dari loss dan profit itu adalah loss. Maka apa sesungguhnya yang terjadi ? Biasanya adalah terjadi apa yg kita kenal dgn pepatah besar pasak dari pada tiang. Yg mana rugi kita lebih besar dari pada profit kita. 
+Yang menyebabkan ini terjadi adalah sulitnya kita membuang sifat dasar kita dimana Profit takut Hilang Loss Berharap balik. Maka solusinya adalah dibalik , Loss usahakan tetap sedangkan profit biarkan lebih besar maka tidak akan defisit. 
+Untuk menerima saran ini bisa jadi sulit di pemikiran orang2 tertentu. 
+Tapi saya ada satu pertanyaan untuk membantu. Jika kita bisa rugi besar kenapa kita takut untuk profit lbh besar ?
+
+
+Coba suatu hari saat loss besar kita bayangin atau kita hitung dgn Buy kita di ganti Sell dan sebaliknya. Bukankah Loss besar jadi profit besar ? . 
+Maka semakin konsisten kita dengan angka SL yg tidak berubah2 akan berpotensi membuat kita profit konsisten. Bukan sekedar ketepatan analisa semata.
+
+
+* FOKUS SOP:
+
+Saya yakin kita sering mengalami hal diatas yaitu saat SL kita kena kemudian harga berbalik atau sebaliknya TP kita kena harga berlanjut. Pada saat ini terjadi kadang bukan margin kita saja yg terganggu tapi psikologi kita juga kena kita akan kesal dan dampak lbh buruk adalah kita akan cenderung tidak konsisten lagi dengan planning kita. 
+
+Kesempatan ini saya ingin mengingatkan bahwa hal tersebut adalah wajar dan dialami semua trader. Maka untuk mengurangi dampak psikologis ini buka lah record transaksi kebelakang dimana anda diselamatkan oleh TP SL yang terencana. Selama bersama market bertahun2 yang paling saya takuti bukan kesalahan prediksi tapi adalah saat psikologi saya terganggu oleh karena itu saya berharap channel ini bisa berguna untuk saling mengingatkan. 
+
+
+* PAUSE:
+
+Hari ini saya akan sharing tentang masalah psikologi lagi. 
+Sebagai Trader kita memiliki aktivitas yg selalu ngangenin yaitu lihat chart , nebak harga and action. Nah bagi kita yg cara tradingnya berkali kali maka ada sebuah keadaan yg menghampiri kita yaitu salah action kemudian cut loss atau stop loss. Hal yg biasa tapi kalau kita sudah kena hal ini berturut2 2 kali atau lebih secara berturut turut maka saya sarankan untuk stop dan beristirahat. Kenapa ? Karena kalau itu terjadi pikiran kita akan kacau biasanya dan cara anda melihat pasar sudah tidak rasional kita akan cenderung emosional dalam mengambil keputusan dan biasanya berantakan. 
+Percaya lah mau sehebat apapun anda trading tetap kita sebagai manusia ada hari2 yang masuk kategori kurang beruntung. Maka upayakan di hari yang kurang beruntung ruginya jangan terlalu banyak. Berfikir saja kalau anda mampu dan pasar hari itu bukan hari terakhir. 
+
 __________________________________________________________________________
 
 ### 16.07 - 10.08 2020:
