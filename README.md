@@ -179,10 +179,61 @@ Jadi kesimpulan untuk hari ini adalah :
 
 * Locking / Hedging:
 
+Yang perlu di pahami adalah bahwa tindakan locking lbh banyak mudharat dari pada manfaat . Kenapa ? 
+
+1. Tindakan locking dan stoploss adalah sama dari aspek hitungan price movement jadi locking ataupun cutloss hasilnya sama pada saat cutloss di ganti stoploss dan open locking di ganti open posisi. 
+2. Dengan locking kita akan lbh sering menginap dan dana akan di sedot oleh swap
+3. Locking akan selalu merangsang orang untuk lbh dulu membuka posisi profit .
+4. Membongkar cara seperti itu cenderung akan memperlebar rugi atau locking di saat trend. 
+5. Locking adalah strategi broker culas untuk membuat client terus top up tanpa memahami bahaya bahwa sesungguhnya uangnya sdh tidak ada dgn mengatakan uang tetap aman krn blm real loss
+6. Dengan locking kita buang waktu dan komisi thd posisi yang ada. 
+7. Satu satunya manfaat locking hanya pada saat margin kita diujung MC yg mana kalau di cut tidak bisa masuk posisi lagi. 
+
+* Cut Loss:
+
+1. Di market tidak ada yang namanya master / suhu setelah sekian banyak benar pasti akan terjadi kesalahan.
+2. Pentingnya stop loss . ( saya kena SL di 1613 sell limit 1608 ). Akan mudah bagi saya untuk recover karena hanya 50pips.
 
 
+* Analyst vs Trader:
+
+1. Seorang analyst akan terus melakukan riset teknis untuk memperoleh jenis analisa yang akurat. Seorang trader hanya menggunakan analisis atau indikator yang dianggap nyaman. 
+2. Seorang analyst memiliki ego yang tinggi merasa selalu benar. Seorang trader lbh bisa menerima kesalahan.
+3. Seorang analyst stoploss berdasarkan analisanya . Seorang trader stoploss berdasarkan dananya. 
+4. Seorang analyst mementingkan berapa kali dia benar. Seorang trader mementingkan berapa duit yang dia dapatkan.
+5. Seorang analyst cenderung memamerkan profit dan diam saat loss. Seorang trader tidak ada yg tau dia profit dan tidak ada yg tau dia loss. 
+6. Seorang analyst selalu mencari guru technis. Seorang trader lbh banyak duduk diam melihat harga. 
+7. Chart analyst penuh garis . Chart trader polos.
+8. Analyst mewakili sifat ilmuwan trader mewakili sifat pengusaha. 
+
+* Pencarian Holy Grail!
+
+Dalam trading loss dan profit , merah dan biru adalah sahabat kita sehari2 namun dua kondisi ini memiliki kelanjutan cerita yg banyak yg mungkin suatu hari akan kita bahas dengan teman,junior atau bahkan anak cucu kita yg kebetulan jadi trader 😁. 
+Ada satu kondisi yg ingin saya bahas dan ini pengalaman pribadi. Dulu begitu saya loss sekali atau dua kali saya akan berfikir lagi mencari strategi baru yg mana strategi baru itu saya ambil dari kondisi loss terakhir kemudian saya jalankan lalu loss lagi saya cari lagi strategi baru . Ketemu dan benar tidak lama salah lagi ternyata strategi lama yg pertama yg benar lalu saya balik lagi. Terus dan terus .SL 5 kena ganti SL 10 SL 10 kena ganti lagi SL 15 . Averaging berhasil martiangle berhasil begitu gagal tdk berani lagi ganti lagi. Begitu terus. Pernakah teman2 mengalami ? 
+Saya tidak menyarankan anda mengulang pengalaman saya itu. Carilah strategi yang tepat melalui testing .
 
 
+* NFP:
+
+1. Pada saat nonfarm payroll rilis semua data bagus maka asumsinya adalah dollar menguat dan gold turun namun saat tadi data di rilis pelaku akan di buat ragu untuk sell di awal awal karena dollarnya tetap minus besar. Ternyata harga benar turun lihat point 2c. Data sell yg membuat kita takut sell adalah benar.
+2. Kemudian keraguan itu mulai hilang saat harga turun makin dalam maka kita akan cenderung sell krn merasa harga ikut data. Begitu kita sell dibawah harga berbalik lagi keatas. Kenapa ? Lihat point no.1 Data ekonomi akan sulit melawan trend jika trend kuat naik biasanya data bagus tetap ada pembalikan dulu.
+3. Ini adalah sedikit sharing mengenai karakter gold vs data. Dan ini adalah salah satu pola menipu dari data ekonomi. Ini bukan lah sebuah rumus mutlak tapi pengalaman dikepala saya menghadapi data ekonomi adalah seperti itu. Tujuan saya mereview kembali agar rekan2 paham kenapa data ekonomi 1 + 1 tidak selalu 2.
+
+* OP untuk mmebuktikan PLAN:
+
+Bahwa untuk saya pribadi analisa saya berlakunya hanya sampai saya open posisi setelah itu saya selalu menerima 2 kemungkinan yg akan terjadi yang pertama adalah analisa saya salah dan yang kedua adalah benar. Inilah pasar. Jika kita tetap bertahan dengan analisa kita bahwa harus benar bagi saya itu adalah sumber masalah. 
+Oleh karena itu setelah saya open posisi maka langkah selanjutnya adalah memastikan planning . Apa yang akan dilakukan jika benar dan apa yg akan dilakukan jika salah. Tidak ada lagi prediksi harga apalagi mempertahankan. 
+Sebagian orang mungkin akan protes dgn statement ini. Tidak masalah saya kembalikan kepada rekan2.
+
+* Wins The War:
+
+Pada saat kita mengenal dunia trading terutama forex dkk ada sebuah kebiasaan yg saya yakin kita semua alami yaitu setiap saat pengen lihat harga kemudian dengan margin yang ada selalu kepengen masuk pasar betul ? Itu wajar. Namun seiring waktu kebiasaan spt itu harus dikendalikan karena masuk pasar dgn dasar seperti itu tidak tepat dan resikonya biasanya besar. 
+Setelah masuk pasar yg lebih berbahaya adalah setiap hari kita berharap hari tersebut harus ditutup dgn hasil biru. Apapun resikonya hantam sampai biru. Kadang irasional terjadi di moment2 ini lot mulai berantakan keputusan mulai emosional dll. 
+Mari kita belajar dari filosofi perang. Keseharian kita di pasar saya analogikan sebagai pertempuran kecil. Hasil akhir dalam suatu waktu ( misal sebulan ) saya analogikan sebagai sebuah perang. Dan kita sebagai Jendralnya karena kita yang mengendalikan. 
+Ingat seorang jendral perang tidak selalu menang dalam pertempuran2 kecil. 
+
+Tapi seorang jendral perang yg hebat selalu menang dalam perang . Bagaimana si jendral melakukannya ? STRATEGI.
+artinya mindset kita jgn disetel tiap hari harus bertempur, tiap hari harus menang pertempuran karena hampir itu tidak mungkin dan membahayakan. Tapi susunlah sebuah strategi untuk kita selalu memenangkan perang besar. Artinya jgn terbeban dan terlalu memaksa dengan hasil harian yg utama adalah akhir bulan Profit dan WD . Thats a general. 
 
 __________________________________________________________________________
 
