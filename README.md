@@ -666,6 +666,8 @@ __________________________________________________________________________
 * Jangan mengurusi 2 akun, 1 akun saja sudah cukup menguras energi dan pikiran
 * Manajemen Resiko membagi akun merupakan suatu hal yang bijak
 * Hati2 dengan TFH4
+* Keluar SOP maka hancur
+* Risk per trade adalah 1% dari dana
 
 
 
