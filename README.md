@@ -507,6 +507,53 @@ Ini adalah sebuah teori dasar namun perlu diingat bahwa pasar adalah dinamis nam
 
 
 
+* Mindset Judi:
+
+Tapi ada yg minta saya mengulas ttg judi. Dan kebetulan hari ini juga saya posting foto depan casino di FB. 
+Ok gini om tante. Trading sudah pasti bukan judi kalau judi pasti dilarang oleh pemerintah. 
+Tapi ada hal hal yang bisa kita anggap sebagai sebuah kemiripan : 
+1. Memilih / transaksi 1 dari 2. 
+2. Tidak bisa memprediksi 100% apa yang akan terjadi. 
+3. Mendapatkan uang jika benar dan kehilangan uang jika salah. 
+4. Ada wadah untuk melakukan aktivitas tsb. 
+Coba kita perhatikan 4 point tersebut keduanya ada dalam trading juga ada dalam judi. Jadi tidak salah jika ada sebagian orang yang masih menganggap trading adalah judi . Jadi beralasan. 
+Tapi jika di tanya kepada saya apakah trading sama dengan Judi? Bagi saya berbeda . Saya lebih mengkategorikan trading sebagai spekulasi . Apa bedanya ? Bagi saya spekulasi adalah sebuah tindakan mencari keuntungan dengan sejumlah resiko yang sudah diperhitungkan. Sama seperti saya mulai sebuah usaha saya akan menyewa ruko membeli stok barang tapi tidak ada jaminan saya pasti untung artinya saya berspekulasi juga tapi kerugian saya terukur sewa toko +  penurunan nilai barang yang gak laku itulah resikonya. Sama seperti trading saya mau cari peluang tapi saya sudah bisa ukur resikonya kalau harga bergerak 1 poin 2 point 3 point resikonya berbeda maka saya mengukur. 
+Beda dengan judi jika saya pasang 50 maka saya akan hilang 50 jika salah saya tidak bisa memilih 10,20,30 sesuai yg saya mau ..
+Perbedaan yang lain terletak pada prosentase . Trading ada ilmu yang menaikkan potensi alami 50:50 menjadi diatas 50 . Sedangkan gambling lebih banyak yang 50:50 . 
+Ok itu adalah sudut pandang saya. 
+Sekarang kembali lagi karena ada kemiripan diawal tadi maka kadang baik sengaja atau tidak akhirnya jadi campur aduk . 
+Karena adanya kemungkinan campur aduk judi dan trading maka kesempatan ini saya sampaikan beberapa filosofi dalam judi. 
+1. Dalam judi kita akan jarang sekali mendengar bandar kalah. Apakah bandar curang ? Tidak juga . Kelebihan bandar adalah dia tidak melibatkan emosi dalam bermain. Kalau anda paham judi bola atau judi bakarat kita bebas kan memilih? bandar hanya ambil sisanya tapi waktu milih bandar tidak emosi. Sedangkan kita punya emosi. Contohnya seperti apa ? Jika kita menang maka kita takut kehilangan uang menang maka kita akan main dikit2 . Sedangkan saat kalah kita mau cepat mengembalikan kekalahan sehingga kita tidak pikir lagi resiko begitu salah lagi emosi kita sudah kacau dan cenderung berantakan. Begitu juga trading saat floating profit kita takut kehilangan profit kadang sedikit kita ambil kalau loss kita ga rela maka kita tunggu akhirnya apa yg terjadi ? Ga perlu saya bahas kita semua tau dan ngalamin. 
+
+2. Saya tidak tau apakah teman2 tau perjudian kalau saya sangat paham karena saya dulu adalah pelaku tapi sudah tobat 😁 ini bicara jaman sebelum SBY dimana masih marak perjudian gelap yg bebas di jakarta . Pejudi kalau sudah seharian didalam mesti keluarnya kusut . Nah kenapa? karena sedikit orang yg mampu memanage emosi dalam arena permainan jadi semakin lama didalam akan cenderung berantakan karena masalah emosi . Apa kaitannya dengan trading. Untuk kaitan dengan trading mungkin masih bisa didebatkan tapi secara pribadi saya punya pengalaman jika kita seharian trading depan layar akan lebih banyak loss dari pada profit . Apalagi yang klak klik dengan banyak posisi. Karena gerakan harga itu sangat menguras emosi kita apalagi kalau trading duduk seharian depan PC atau HP. Tapi balik lagi ini debatable mungkin saja sebagian dari anda ga merasakan. Tapi secara pribadi saya lbh suka daytrader dan single or double position bukan multi. 
+
+3. Jika kita sudah tau bahwa bandar kebanyakan menang maka sebisa mungkin dalam berjudi kita ikut bandar jangan ikut yang ramai searah kalau searah yang menang maka fakta bandar banyak menang salah donk sedangkan fakta tidak demikian. Nah dalam casino jika kita jeli maka kita bisa milih ikut bandar yaitu yg sedikit tapi terkadang ada permainan tertentu yang kita tidak tau. Tapi jika kita lama dalam permainan kadang kita terbiasa membaca pikiran orang. Misal dalam taruhan bola jika anda punya pengalaman jika partai bola yang kelihatan gampang misal team kuat tapi fur kecil kebanyakan adalah kalah . Maaf bagi yang kurang familiar dengan dunia judi. Saya buatkan kesimpulan aja intinya sesuatu yang sangat yakin akan menang biasanya akan terbalik saya tidak bisa menjelaskan teorinya disini karena hal ini butuh waktu. 
+Tapi ok bagaimana hal ini dikaitkan dengan trading  ? Hampir sama ada kondisi tertentu juga jika mayoritas berpikir sama biasanya salah. Kebetulan saya bisa memberi contoh 2 kasus yg saya alami dalam trading. Yang pertama adalah kasus brexit. Pada saat itu semua orang berpikir tidak mungkin inggris akan keluar dari eropa sehingga semua aktivitas trading mayoritas adalah mengarah pada inggris akan stay dan faktanya boom inggris keluar. 
+Yang kedua adalah pemilu US semua orang baik pooling atau obrolan tidak ada yang yakin donald trump menang karena tidak disukai pasar. Dan apa yg terjadi? Kita semua tau Trump menang. 
+Jadi dalam trading juga sama kalau kita merasa too good to be true maka bukan terbuai atau over confident malah harus hati hati. 
+Atas dasar prinsip ini maka saya adalah orang yang menentang CT karena bagi saya CT itu tidak menguntungkan. Fakta di FB ramai toh mengenai CT gagal. Dan yang lain saya kira cepat atau lambat akan menyusul. 
+Dan pada kesempatan lain saya akan bahas kenapa CT tidak baik. 
+Ok jadi untuk hari ini kesimpulannya adalah . Pahami filosofi judi maka kita akan lebih aman dalam trading. Dan Bandar tidak pernah takut kita profit yang bandar takut adalah kita menang lari menang lari tidak terus terusan dalam casino. Mungkin begitu juga dengan trading . Bandar males dengan model saya sehari trading 1 x profit loss udahan. Tinggal hitung satu bulan 20 hari anggap saya bodoh 10x loss 10x profit tetap tidak bonyok. Apalagi selama ini lebih banyak benar. 😊
+
+
+
+
+* OVERLOT OVERCONFIDENT:
+
+Untuk minggu ini saya akan bahas 2 point yang mampir dalam obrolan baik yang diobrolkan di Group atau yang Japri ke saya dan 2 point itu adalah : 
+1. Over confident setelah Profit.
+2. Random Lot atau lot acak. 
+Dari yang pertama dulu , didalam trading biasanya kita memiliki teknis andalan atau teknis research berjalan maksudnya sambil trading sambil nyari teknik . Pada saat kita menjalankan Trading tersebut entah teknis andalan kita atau yang baru kita temukan dapat memberikan hasil trading yang kadang adalah profit berturut turut . Dan biasanya jika itu terjadi kita menjadi sangat senang bahkan kadang2 imajinasi kita tentang masa depan begitu indah dan sangat optimis. Kadang kebayang rumah mobil hutang lunas dll 😁. Berpikir positif itu bagus optimis juga baik tapi dalam trading hal ini kadang membuat kita lengah dan over confident. Apa bahayanya ? Salah satu bahayanya adalah kita keluar dari planning awal sometime lot transaksi kita di naikkan dan stoploss mungkin ditiadakan atau sejenisnya . Jika mmg benar terus maka tidak akan menjadi persoalan tapi jika terpeleset sekali kita akan terhantam Double. Yaitu apa?  loss yang besar dan hantaman psikologi galau. Kenapa bisa galau ? Ini saya analogikan seperti orang pacaran jika kita masih was2 dengan pasangan kita maka jika dikhianati kita lebih siap. Sedangkan jika kita sudah sangat yakin dan percaya akan menikahi dan hidup bahagia ternyata dikhianati itu yg membuat psikologi kita jatuh 2x lipat dan jika psikologi sudah kena dalam trading itu yg paling merusak trading kita. Dalam pandangan dan pengalaman saya tidak pernah ada sebuah teknik yang sempurna memuaskan saya tidak tahu apakah saya mmg tidak mampu menemukannya atau bgmn ini mungkin masih bisa diperdebatkan . Tapi jika teman2 setuju dengan saya maka yang harus teman2 lakukan adalah setting mindset bahwa mmg tidak ada teknis seperti itu dan tetap waspada dan teratur dgn planning , Tidak percaya diri berlebihan sehingga bisa tetap konsisten.
+
+Point kedua adalah tentang Random Lot. Hal ini sudah pernah saya ulas pada edukasi lama di atas tapi karena ini baru kejadian pada seorang teman trader maka saya remain kembali. Sebenarnya bukan tidak boleh menaikkan Lot dalam transaksi tapi menurut saya harus terpola. Misal kita mau gunakan strategi martiangle atau kita mau tingkatkan pendapatan trading. Sah sah saja yg tidak boleh adalah random acak ini sangat berbahaya , kenapa ? Trading itu tidak akan pernah seperti matematik 1 + 1 = 2 , masih terkait overconfident diatas teknik tidak akan pernah sempurna jika kita sering mengacak lot maka yg merepotkan adalah saat salah lot nya besar. Percaya tidak percaya alami atau tidak alami kalau itu sampai terjadi saya garansi kelanjutannya akan berantakan dinaikkan salah diturunkan salah. Naik takut salah lagi Turun merasa ga bisa menutup kerugian ujung2nya psikologi lagi yang kena. 
+Belum lagi Setan lewat dalam trading 😁 tau maksud setan lewat? Ada satu hari saya sempat memasang pending order dari pagi sampai malam harga tidak kena lalu ketiduran dan lupa di cancel. Bangun2 habis mandi lihat meta tiba2 ada posisi dan minus, Bagaimana ? Planning berantakan semua. Untungnya saya penganut lot stabil bayangkan kalau saya lot random dan kebetulan saat itu pas planning lot besar. Rusak pasti. Maka saran saya adalah buat lah planning yang baik dan transaksi lah dengan rencana dan perhitungan jangan saat feeling lot besar kurang feeling lot kecil. Kecuali anda yakin dewa keberuntungan akan selalu disisi anda. 
+
+Semoga ulasan ini dapat meremain kita semua. Dan bagi yang kurang sepakat silakan diabaikan.
+
+
+
+
+
 __________________________________________________________________________
 
 ### 16.07 - 10.08 2020:
@@ -884,6 +931,9 @@ __________________________________________________________________________
 * Gunakan Risk Sekali Trade 1%, sehingga besok bisa diganti
 * Lebih baik gunakan RR Ration 1:2, daripada tidak sama sekali
 * Pentingnya RISK:REWARD Ratio MIN 1:1
+* Terlalu sering trading akan membuat otak kurang fresh
+* Mindset bandar bukan takut kita menang banyak, tapi takut kita tidak trading lagi
+
 
 
 
