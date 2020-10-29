@@ -443,6 +443,70 @@ Jadi ceritanya begini ada seorang kawan yang akhir2 ini cukup intens komunikasi 
 Dan satu hal saat awal mau depo kawan ini menggaransi saya bahwa dia mampu konsisten dan kontrol emosi tapi faktanya berakhir seperti diatas. 
 Apa pesan dari kisah nyata di atas ? Kita mungkin punya system bagus kita mungkin punya teknical bagus tapi begitu kita tidak mampu mengontrol psikologi dan emosi semua bisa hilang dalam sekejap. 
 
+* Tidak ada harga suatu produk derivatif terlalu mahal dan terlalu rendah
+
+* TRADING PLAN:
+
+1. Pentingnya Trading plan 
+
+Kenapa dalam trading kita perlu trading plan ? Trading itu urusannya dengan uang bolehlah kita masukkan kategori sebagai bisnis. Coba bayangkan kita jalankan sebuah bisnis tanpa planning sewa toko sewa aja. Belanja barang belanja aja . Jual mau untung berapa dagangan kita ya jual aja ikut mood . Kira2 kemungkinan bangkrut bisnis itu lebih besar atau berhasilnya lbh besar ? Saya kira jawaban kita sama . Dalam trading juga demikian perlu ada perencanaan tujuannya apa agar jika berhasil atau gagal kita tau titik lemah dan kuatnya kalau dalam ilmu management dikenal dengan analysist SWOT. Strength Weakness Opportunity and Threat. Sehingga langkah perbaikan akan obyektif dan efektif. Tapi kalau kita malas buat planning ya balik lagi itu pilihan. 
+    
+2. Ekspresi 
+
+Kita dalam trading sering ngalamin kalau profit kita pingin banget tunjukkan ke orang2 kalau kita profit ada sebuah kepuasan , kebanggaan hal ini tidak salah tapi ini terkait kontrol emosi dan kita tau trading 60% adalah permainan emosi dari hal ini kita bisa belajar mengontrol emosi karena kalau kita mampu kontrol emosi niscaya keputusan2 trading kita akan lebih tenang dan tidak grasak grusuk karena terlatih. Pernah dengar istilah trader sukses mayoritas adalah silent trader ? Mari kita belajar jadi mereka. 
+
+3. Risk & Reward
+
+Risk and reward sangat penting dalam trading ini terkait dengan trading plan sebenarnya . Jadi berapa R&R yang ideal . Saya setuju dengan postingan salah satu member group bahwa 1 : 1 . Dan ini minimal kenapa ? Karena dalam trading tidak akan ada winning rate 100% jadi jika kita mendapatkan strategi 50:50 kita msh impas. Dan upayakan ini konsisten tidak perlu takut untuk SL kena , karena saya yakin anda pasti masuk sudah ada study awal terhadap strategi . Anggap saja ga hebat2 amat 5 x trading rasio nya benar 3 salah 2 kita tetap profit. Setuju ? 
+
+
+4. Stochastic 
+
+Sedikit keluar dari psikologi ada pembahasan stoch di group. Bagi saya stoch adalah indikator yang sangat membantu asal tau pemakaiannya. Dan saran saya untuk stoch timeframe paling tinggi adalah di H1 selebihnya jgn dipakai. Dan gunakan Stoch hanya pada saat koreksi bukan trend. Silakan di pantau back test mumpung weekend
+
+* TRADING PLAN + PSIKOLOGI TRADING:
+
+Sebenarnya apa yg akan saya share ini adalah pengulangan tapi itu lah trading semua kejadian yang kita alami merupakan pengulangan termasuk juga penyebab kita rugi juga sama sifatnya adalah ke alpaan yg berulang dari kita. Biasanya orang yg mengulang kesalahan itu kita sebut bebal. Tapi dalam trading saya merasa kurang tepat . Hal ini cenderung adalah karena kita sebagai manusia membawa sifat dasar. Yaitu Takut . Takut ini adalah sumber dasar prolem trading. Takut rugi , Takut ketinggalan harga , Takut Cut Loss harga berbalik, Takut Take Profit harga berlanjut. Betul ? Maka obatnya adalah system / Planning. tanpa itu kita secara emosional akan dipermainkan harga dan kalau itu sudah terjadi yakin seyakin yakinnya saya trading akan berantakan . Pada saat harga melawan kita kita dibuat serba salah cut salah tidak cut salah akhirnya keputusan akhir diambil di ujung karena melihat margin sudah ga kuat lagi dan setelah diambil harga balik selalu seperti itu dari jaman baheula urusan trading . Maka saya kembali mengingatkan pentingnya planning . Terserah mau untung banyak mau untung dikit itu bebas ga ada yg larang yang paling penting apa yg kita mau dari sebuah action itu sdh disiapkan sejak sebelum OP atau sesaat setelah OP jangan biarkan harga bergerak baru mikir itu biang masalah dalam trading. Mungkin sebagian menganggap ini klise tapi ini lah yg membuat saya trading secara tenang untung rugi itu sdh biasa dalam trading tapi menghilangkan kepanikan saat punya posisi itu adalah salah satu kunci profit konsisten. 
+Have nice weekend all. Semoga wabah covid segera berlalu.
+
+
+* Financial Market: Saham, USD, GOLD
+
+Di dalam investasi pasar finansial ada 3 portofolio yang paling populer yaitu :
+
+1. Pasar Saham
+2. Mata uang khususnya USD
+3. Safe Haven Emas
+
+Dari ketiga tersebut yang paling diminati adalah pasar saham alasannya adalah pasar saham memiliki pelaku yang paling sedikit dengan sedikitnya pelaku menyebabkan volatilitas saham menjadi tinggi dan potensi meraih yield atau gain sangat besar dibandingkan dengan dua lainnya. Dalam satu hari perubahan harga saham mampu mencapai antara 1 - 5%. Hanya dalam saham ada sebuah kelemahan yaitu kebanyakan pasar hanya memberlakukan long position atau posisi beli. walau ada beberapa exchange yang memiliki mekanisme short Selling tentu dengan Term & Condition yang ada.
+
+Portofolio kedua yaitu Currency. Darimana orang memperoleh yield Currency? yang pertama adalah dari bank interest atau bunga pada saat ditempatkan di bank, yang kedua adalah dari selisih kurs jika mata uang tersebut ditransaksikan antar currency. Dan yang paling diminati adalah USD dengan alasan USD adalah mata uang dunia dengan likuiditas paling tinggi dan alat bayar internasional.
+
+Yang ketiga adalah Gold. Gold disebut sebagai safe haven karena karakteristiknya yang stabil dan cenderung naik dari waktu kewaktu . Dan Gold juga salah satu perlindungan jika suatu negara mengalami inflasi maka biasanya harga Gold akan mengikuti laju inflasi sehingga dengan holding Gold kita terlindungi dari inflasi. Sesungguhnya sejak awal Gold diperdagangkan dalam industri exchange, pergerakan Gold adalah yang paling pelan sehingga minat untuk tansaksi Gold adalah kecil. namun seiring waktu setelah Gold diperdagangkan secara Global terjadi volatilitas Gold yang cukup besar akibat dari banyaknya spekulator yang turut bertransaksi. Ditambah gejolak ekonomi politik sosial yang cukup dinamis maka menyebabkan Gold juga bervolatile saat ini. namun tetap jika dilihat dari yield harian Saham tetaplah primadona dari sisi Volatilitas.
+
+Kali ini saya akan membahas Korelasi ketiga portofolio tersebut terutama terkait dengan emas :
+
+1. Jika Saham Jatuh Emas akan Naik dan sebaliknya.
+Penjelasan akan hal ini adalah jika pasar modal jatuh maka asumsi yang terjadi adalah ekonomi kurang baik disaat ekonomi kurang baik atau tidak pasti maka Gold akan menjadi pilihan akibat dari sifat stabil dan liquidnya . Begitu juga sebaliknya jika saham naik maka Gold akan cenderung turun karena sifat di atas tadi bahwa yield saham lebih tinggi dan ekonomi positif dan tidak ada gunanya menyimpan emas.
+
+2. Jika Saham Naik Mata uang mengikuti dan sebaliknya
+Jika saham bagus maka permintaan akan saham akan tinggi dan untuk membeli saham tersebut biasanya adalah menggunakan mata uang lokal ini akan menyebabkan demand akan currency negara tersebut bertambah. Begitu juga sebaliknya.
+
+3. Jika mata uang ( USD ) menguat maka Emas akan turun. Dan sebaliknya
+Emas dunia diperdagangkan dalam mata uang USD / Troy ounce maka korelasinya adalah jika USD menguat maka menguntungkan jika kita menjual emas karena hasil jual emas tersebut kita memperoleh USD dan dengan USD yang Tinggi kita mendapatkan keuntungan terhadap produk lain. Sebaliknya jika USD lemah akan menguntungkan jika kita membeli emas karena kita dapat membeli USD dengan murah dan dapat lebih banyak jika di belanjakan kepada emas.
+
+4. Korelasi suku bunga The Fed dengan Emas
+Jika suku bunga tinggi orang akan memegang USD karena menguntungkan jika di depositokan sehingga jika suku bunga tinggi orang cenderung untuk menjual emas untuk mendapatkan dollar. sebaliknya jika suku bunga rendah menempatkan uang di Bank adalah tidak menguntungkan oleh karena itu orang akan pindahkan dollarnya ke saham atau emas yang lebih menguntungkan.
+
+Dari keempat kondisi itu maka kita dapat memanfaatkan market emas ini dengan parameter :
+
+1. Jika Saham dan USD melemah adalah momen untuk membeli emas dan sebaliknya
+2. Jika Suku Bunga rendah orang akan cenderung membeli emas dan sebaliknya
+
+Ini adalah sebuah teori dasar namun perlu diingat bahwa pasar adalah dinamis namun jika kita buat data jangka panjang dari korelasi tersebut maka tingkat akurasi adalah diatas 80% selamat mencoba.
+
+
+
 __________________________________________________________________________
 
 ### 16.07 - 10.08 2020:
@@ -819,6 +883,8 @@ __________________________________________________________________________
 * Gunakan SOP Breakout, jangan yang lain dengan MM Gertaone
 * Gunakan Risk Sekali Trade 1%, sehingga besok bisa diganti
 * Lebih baik gunakan RR Ration 1:2, daripada tidak sama sekali
+* Pentingnya RISK:REWARD Ratio MIN 1:1
+
 
 
 
