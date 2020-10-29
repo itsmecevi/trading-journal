@@ -434,6 +434,14 @@ Step 6 ( mengatasi step 5 )
 6. Untuk 3.1 dan 3.2 mau anda dapatkan dari master manapun upayakan lakukan back test. Mau gunakan yg saya ajarkan di video juga cukup akurat selama ini. 
 
 
+* Hilang sekejap mata itu uang:
+
+Seperti biasa hari sabtu saya akan share sesuatu yang ada unsur edukasinya . Sesungguhnya jika teman2 baca channel ini secara utuh ga lompat lompat sebenarnya sudah cukup banyak pandangan2 psikologi yang sudah saya sampaikan. 
+Agar tidak bernuansa teoritis ( walau sebenarnya yg saya tulis itu bukan teori tapi pengalaman trading 25 tahun ) maka apa yg saya share mulai hari ini untuk sabtu adalah kisah nyata yg dialami oleh orang2 yg saya kenal namun terkait masalah trading. 
+Disini saya ingin mengingatkan pentingnya SYSTEM Trading atau trading plan dan yang lebih penting lagi adalah konsisten terhadap planning tsb. 
+Jadi ceritanya begini ada seorang kawan yang akhir2 ini cukup intens komunikasi dgn saya. Singkat kata kawan ini trading dengan planning yang adalah sedikit masukan hasil ngobrol dgn saya. Hampir tiap hari profit biru biru kadang ss ke saya senang saya lihatnya. Tapi ada satu hari kawan ini systemnya mengatakan harus diam dulu tidak entry. Dan ternyata hasrat jari mengalahkan system kawan ini melakukan scalping katanya di hari tersebut sampai MC . Memang modal tidak besar. Tapi dari awal kawan ini ingin masuk besar saya larang karena pemula sy katakan gunakan modal kecil dulu rasakan pasar rasakan gangguan psikologi kalau pakai uang asli akan sangat beda psikologinya.
+Dan satu hal saat awal mau depo kawan ini menggaransi saya bahwa dia mampu konsisten dan kontrol emosi tapi faktanya berakhir seperti diatas. 
+Apa pesan dari kisah nyata di atas ? Kita mungkin punya system bagus kita mungkin punya teknical bagus tapi begitu kita tidak mampu mengontrol psikologi dan emosi semua bisa hilang dalam sekejap. 
 
 __________________________________________________________________________
 
