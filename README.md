@@ -297,7 +297,143 @@ Karena saya perlu membuat screenshoot dan gambar2 maka saya ingin tanya dulu apa
 Bagaimana lanjut ?
 
 
-* Trading lah dengan sejumlah fund yang anda siap habis karena dengan psikologi itu justru sebaliknya saya lihat banyak yg berhasil.
+* Siap Rugi: Trading lah dengan sejumlah fund yang anda siap habis karena dengan psikologi itu justru sebaliknya saya lihat banyak yg berhasil.
+
+Dalam trading salah satu persoalan psikologi adalah jika kita trading menggunakan modal pas pasan atau lebih jauh lagi modal pinjaman. Mengapa demikian ? Karena jika modal kita pas pasan maka ada sebuah tuntutan psikologi trading tidak boleh salah kalau salah habis kita. Kira2 begitu psikologinya. 
+Sedangkan market pada saat bergerak akan lbh banyak mengayun dari pada tegak lurus , betul ? 
+Pada saat market lurus dan anda benar disitu anda selamat dari masalah psikologi ini. 
+Tapi jika anda entry dan market mengayun disana problem muncul. 
+Bagaimana prosesnya ? Jika anda entry dan minus anda akan ketakutan dan akan di cut posisi karena takut bergerak lebih jauh dan MC begitu seterusnya sampai benar2 MC . 
+Jika profit, anda tdk akan maksimal walau anda taruh TP jauh saya sangat yakin anda akan lepas
+
+Jika harga sedikit berbalik. Kenapa karena anda takut profit yang sudah ada hilang dan akan menyedot modal yg pas pasan tadi. 
+Akhirnya anda hanya akan untung2 dikit. Rugi2 banyak. 
+Kenapa demikian karena keinginan dan kenyataan berbeda . 
+Keinginan anda adalah profit terus. Atau tiap masuk harus langsung biru karena uang pas pasan. 
+Tapi market kenyataannya tdk begitu walu arah anda benar blm tentu gerak lurus dan sangat mungkin mengayun dan saat mengayun itu lah psikologi anda terganggu. 
+Jadi saran saya jgn trading dengan modal pas pasan. Trading lah dengan sejumlah fund yang anda siap habis karena dengan psikologi itu justru sebaliknya saya lihat banyak yg berhasil.
+
+* 15 Steps proses menjadi seorang trader:
+
+1. Mengenal
+2. Demo 
+3. Profit
+4. Coba Real 
+5. Takut2 
+6. Profit
+7. Suka
+8. Mendalami
+9. Percaya diri
+10. Loss
+11. Loss parah
+12. Evaluasi
+13. Menyadari
+14. Memperbaiki
+15. Stabil.
+
+
+* Faktor X:
+
+Apakah menurut anda keberhasilan trading 100% ada dalam diri kita ? 
+Jawabannya benar dan salah. 
+Kenapa benar ? Karena dlm trading tentu subyek akan menentukan " Man behind the Gun "
+Kenapa salah ? Saya mengalami trading juga ada faktor X. 
+Dasarnya apa ? 
+
+1. Pernakah anda mau masuk pasar tapi ragu ragu lepas dari hasil.
+2. Pernakah anda buru2 dan salah klik ?
+3. Pernakah anda nunggu posisi dan ketiduran ? 
+4. Pernakah anda mau order internet tiba2 mati?
+5. Pernakah anda mau order A trus diganggu teman akhirnya jadi B ? 
+6. Pernakah anda mau depo ambil posisi tapi IB nya lama ? 
+7. Sambil pipis bawa HP ga sengaja kepencet OP ? 🤣
+
+Itu hanya beberapa dan mungkin adalagi kejadian2 faktor X dalam trading. 
+Saya tidak ingin bicara terlalu jauh tapi hal diatas saya alami dan saya menyimpulkan sometime dalam mengais rezeki ada fator X. 
+
+Oleh karena itu bgmn solusinya 
+1. Jika anda merasa ada yg aneh dgn hari itu dan keanehan membuat anda rugi maka hentikan trading di hari tsb. Namun jika keanehan itu menguntungkan silakan lanjut. Terus terang tidak ada penjelasan ilmiah mengenai hal ini but it happen.
+2. Kalau ada profit beramal lah dgn profit kita. 
+
+* Stop Loss:
+
+Mengenai Stop Loss. Jika orang bertanya kenapa trading perlu melakukan Stop Loss? Mayoritas akan menjawab Untuk manajemen resiko, untuk membatasi kerugian, sebagai pelengkap trading plan , saya diajarkan metor begitu 😁 semua benar. 
+Tapi kesempatan ini saya tambahkan sebuah rahasia yg jarang orang tau. StopLoss kalau ikhlas adalah senjata untuk profit besar. 
+Lha kok bisa ? Ingat saya adalah mentor psikologi trading ( ngaku sendiri ) 😜
+Bisa teman2!! tapi ingat kata kuncinya ikhlas. Jika anda stoploss tapi tidak ikhlas keajaiban stoploss ga akan muncul yaitu profit besar. 
+Sering kah anda mengalami floating profit kemudian di ambil profitnya padahal secara analisa anda masih ada keyakinan harga masih bisa lanjut dan anda sudah pasang TP jauh sesuai prediksi dan ternyata benar ? Pasti pernah
+Itu Karena anda kurang ikhlas dengan SL jika anda ikhlas dengan SL, anda akan siap dengan kejadian terburuk yaitu SL nya kena . Dengan demikian anda akan berani untuk membiarkan market menjemput TP. Tapi jika tidak siap dengan SL nya anda akan meliquid profit yg terjadi sebelum TP anda kena " dari pada balik rugi dan SL kena mending ambil dulu" kira2 begitu yg lewat dikepala. Akhirnya problem klasik trading untung2 dikit rugi2 banyak sering terjadi. 
+Gak percaya coba cek transaksi anda berapa banyak profit yang sesuai TP. Dan berapa profit yg anda ambil sebelum menyentuh angka TP. Masalahnya ada di SL yg ikhlas tadi. 😁
+
+Strategi ini sangat sederhana dan mudah untuk diterapkan . Tapi setelah sekian lama saya mengikuti fenomena trader2 yg ada di sosial media menurut saya tidak semua trader bisa menjalankan . Kenapa ? Karena saya perhatikan trader sekarang suka akan hal2 yg bersifat teknis keilmuan. Banyak yg memiliki sudut pandang science dan riset dalam trading. Tidak ada yang salah justru disana sisi menariknya trading. Tapi tidak bagi saya seorang penganut Old School . 
+
+Bagi saya trading adalah make money no matter how is the way. Easier is better. Prinsip saya jika bisa sederhana buat apa dibuat ribet. 
+
+
+
+
+* Trading Plan: Mari kita mulai. Untuk membuat sederhana pemahamannya saya akan langsung contoh dengan ilustrasi angka. 
+
+Step 1 
+1. Saya menyiapkan modal $ 1.000
+2. Saya siapkan risk limit 50% dr modal.
+3. Saya bagi risk limit saya menjadi 10 kali :  $500 : 10 = 50 $ ( saya namakan R )
+4. Lot transaksi saya konstan : 0.1 lot. 
+5. R adalah limit SL saya setiap transaksi. 
+6. Untuk forex $50= 50 pips SL saya. 
+7. Kesimpulan : 
+    Jika SL saya  hit 10 kali berturut2 maka limit risk saya tercapai yaitu $500. 
+
+Step 2
+1. Saya akan menghitung rata2 harian sebuah pair. 
+2. Cara hitungnya : high - low 5 hari terakhir di jumlahkan lalu di bagi 5. 
+3. Pair dgn rata rata harian 100 - 200 pips akan menjadi pilihan.
+
+Step 3. 
+1. Setiap hari tentukan arah pair tersebut. Gunakan teknik apa saja yang diyakini atau pernah diback test atau yang anda comot dari master2 yg anda tau. Target nya : Today Buy or Sell.
+2. Tentukan Entry point . Apa saja yg anda cukup familiar. Bisa : parabolic , SNR , stochastic , moving apa saja . 
+3. Setelah OP langsung pasang SL : TP 
+Dengan komposisi R : 2R . Kalau mengacu kasus diatas 50 pips : 100 pips. 
+4. Biarkan sampai salah satu kena. 
+5. Ulangi Step 3 untuk keesokan hari. 
+
+Step 4. 
+Evaluasi hasil : 
+Jika kita 5 x OP 
+a. 0 benar 5 salah : - 250 pips
+b. 1 benar 4 salah : - 100 pips 
+c. 2 benar 3 salah : + 50 pips
+d. 3 benar 2 salah : + 200 pips 
+e. 4 benar 1 salah : + 350 pips
+f. 5 benar 0 salah : + 500 pips
+
+Evaluasi : 
+Jika e dan f : selamat teknik anda mantap.
+Jika a dan b : segera evaluasi apa yg salah dari cara entry. 
+Jika c dan d : normal untuk sebuah teknik. 
+
+Jika teknik anda mampu mencapai c dan d saja . Bagaimana kalkulasinya dalam 1 bulan. Saya ambil yang c saja . 
+50 x 4 minggu = 200pips / bulan . Jika modal 1000 berarti 20% keuntungan sebulan. Ingat itu hanya c bgmn kalau d atau e. 
+
+Step 5
+Sebagai Trader tentu anda setuju bahwa logika diatas tidak akan terbantahkan. 
+Namun juga tidak semudah itu dijalankan. 
+Berikut hal yang akan menggagalkan.
+1. Tergoda Stop Loss dan Take profit sebelum tersentuh. 
+2. 2 kali salah berturut2 membuat anda ragu untuk melanjutkan. 
+3. Jika TP atau SL hit di awal2 sisa waktu yang ada panjang maka tidak tahan untuk tidak ambil posisi lagi. 
+4. Jika SL kena cenderung mau entry lagi untuk membalas kerugian. 
+5. Diganggu fundamental lewat. 
+
+Step 6 ( mengatasi step 5 ) 
+1. Ingat Step 1.2 limit risk. 
+2. Selalu ingat jika anda bisa / pernah loss 100 pips maka apa alasannya kita tidak bisa profit 100 pips. Harga itu ga naik ya turun. 
+3. Begitu anda galau lihat step 4.c ga perlu menjadi sempurna untuk tiap bulan wd profit. 
+4. Fokus hanya pada TP & SL mau fundamental lewat hantu blao lewat jangan goyah tetap fokus kepada 4.c 
+5. Jika terjadi step 4.b setelah seminggu segera evaluasi step 3.1 dan step 3.2 nya pasti ada yg salah karena pakai lempar coin saja belum tentu separah itu apalagi pakai teknik analisa yang ada dasar ilmunya. 
+6. Untuk 3.1 dan 3.2 mau anda dapatkan dari master manapun upayakan lakukan back test. Mau gunakan yg saya ajarkan di video juga cukup akurat selama ini. 
+
+
 
 __________________________________________________________________________
 
@@ -649,7 +785,7 @@ __________________________________________________________________________
 * SOP yang ada yaitu di TFM5 MA5High MA5Low bisa sangat menyelamatkan
 
 
-### 27.10.2020
+### 27.10.2020: 
 
 * Ketika hampir kena batas H1 dan H4 maka bisa langsung OP jika kondisi CS bergerak kencang
 * Ambil profit di TFM1 saja karena lebih aman
@@ -661,7 +797,7 @@ __________________________________________________________________________
 * Ketika kita sudah SOP, maka 50%:50%, namun ketika sudah positif, maka artinya kita berhasil menaikan peluang dan berhasil profit
 
 
-### 28.10.2020
+### 28.10.2020: 
 
 * Jangan mengurusi 2 akun, 1 akun saja sudah cukup menguras energi dan pikiran
 * Manajemen Resiko membagi akun merupakan suatu hal yang bijak
@@ -670,9 +806,11 @@ __________________________________________________________________________
 * Risk per trade adalah 1% dari dana
 
 
+### 29.10.2020:
 
-
-
+* Gunakan SOP Breakout, jangan yang lain dengan MM Gertaone
+* Gunakan Risk Sekali Trade 1%, sehingga besok bisa diganti
+* Lebih baik gunakan RR Ration 1:2, daripada tidak sama sekali
 
 
 
