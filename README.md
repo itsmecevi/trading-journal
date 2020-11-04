@@ -10,7 +10,7 @@ __________________________________________
 ## Gertaone Scalping:
 * Modal $1000
 * OP 0.1 Lot
-* Strategi Breakout
+* 3 Strategi: Breakout konfirmasi di TFM5 atau nunggu di MA5High/Low jika terlalu besar pergerakannya, Pola Kail di TFM5 melebihi BB, Pinbar di TFM15
 * Jangan Pakai Robot TP
 * Cut Loss Ketika Loss 3$
 * Jangan Hedging, akan pusing sendiri jika tidak terbiasa
