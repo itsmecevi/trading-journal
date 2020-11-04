@@ -934,7 +934,15 @@ __________________________________________________________________________
 * Terlalu sering trading akan membuat otak kurang fresh
 * Mindset bandar bukan takut kita menang banyak, tapi takut kita tidak trading lagi
 
+### 30-4 November 2020:
 
+* Jika sesuai SOP, maka akan selamat
+* SOP yang ada adalah breakout dan Pinbar di TFM15
+* Target Hanya 1% per hari
+* Lihat2 news dan arah melalui BBMA OA
+* Cut Loss Jika sudah 50cent
+* Hanya Scalping tidak menerapkan Risk Reward Ratio
+* Trading bukan salah dan benar tp tentang Profit dan kenyamanan psikologis
 
 
 
