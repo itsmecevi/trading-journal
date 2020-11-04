@@ -943,6 +943,7 @@ __________________________________________________________________________
 * Cut Loss Jika sudah 50cent
 * Hanya Scalping tidak menerapkan Risk Reward Ratio
 * Trading bukan salah dan benar tp tentang Profit dan kenyamanan psikologis
+* Jika ada reversal di TFM1 tapi tidak menyentuh BB, maka kemungkinan besar akan reversal,ambil sedikit dengan scalping
 
 
 
