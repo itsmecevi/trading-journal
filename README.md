@@ -950,5 +950,7 @@ __________________________________________________________________________
 
 * Gunakan SOP yanga dan dan terasa nyaman bagi pribadi masing2 (Pola Kail Scalping, Pola Breakout, dan Pola Pinbar di TF mulai TFM15)
 * Target profit hanya 1% per hari, usahakan konsisten, dan jika sudah berhasil memenuhi target, maka berhenti! jangan overtrading!
+* Ketika target profit kurang sedikit, maka tidak akan jadi masalah, berhenti saja trading, karena psikologis yang sedikit akan membuat akun menjadi hancur dan muncul GREEDY
+
 
 
