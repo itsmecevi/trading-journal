@@ -946,6 +946,9 @@ __________________________________________________________________________
 * Jika ada reversal di TFM1 tapi tidak menyentuh BB, maka kemungkinan besar akan reversal,ambil sedikit dengan scalping
 
 
+### 5 November 2020:
 
+* Gunakan SOP yanga dan dan terasa nyaman bagi pribadi masing2 (Pola Kail Scalping, Pola Breakout, dan Pola Pinbar di TF mulai TFM15)
+* Target profit hanya 1% per hari, usahakan konsisten, dan jika sudah berhasil memenuhi target, maka berhenti! jangan overtrading!
 
 
