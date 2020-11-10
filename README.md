@@ -5,14 +5,16 @@
 * Gertaone Scalping (Breakout)
 * Gertaone Hedging
 * Gertaone Risk Management
+
 __________________________________________
+
 
 ## Gertaone Scalping:
 * Modal $1000
-* OP 0.1 Lot
-* 3 Strategi: Breakout konfirmasi di TFM5 atau nunggu di MA5High/Low jika terlalu besar pergerakannya, Pola Kail di TFM5 melebihi BB, Pinbar di TFM15
+* OP total 0.1 Lot dengan masing2 0.01 Lot
+* 5 Strategi: Pola Breakout konfirmasi di TFM5 atau nunggu di MA5High/Low jika terlalu besar pergerakannya, Pola Kail di TFM5 melebihi BB, Pinbar mulai di TFM15, Poja jajar 2 CS mirip pinbar mulai di TFM5, Pola CS Bank (Laut tenang kurang dari 20 CS 32, Laut arus lebih dari 20 CS 42)
 * Jangan Pakai Robot TP
-* Cut Loss Ketika Loss 3$
+* Cut Loss Ketika Loss 3$ per OP 0.01 Lot
 * Jangan Hedging, akan pusing sendiri jika tidak terbiasa
 * Jangan OVERLOT
 
@@ -961,7 +963,7 @@ __________________________________________________________________________
 * Idealnya trading tidak diganggu dengan hal2 lain di hari yg sama, tinggal fokus
 * Selalu update berita memakai kofyin.conm
 * Waktu Trading intraday: 06-10, 12:16, 18:22
-* Waktu pergerakan besar dari jam 18:00-22:00, di waktu tersebut waktu penutupan pasar eropa dan pembukaan pasar amerika
+* Waktu pergerakan terbesar dari jam 18:00-22:00, di waktu tersebut waktu penutupan pasar eropa dan pembukaan pasar amerika
 * Lebih baik open posisi kecil-kecil dan banyak, karena volatilitas market tidka tertebak
 * Target trading bukanlah hari, melainkan profit
 * Ciri trading yang baik, profit dan floating sama saja jangan mempengaruhi emosi, terlalu senang dan terlalu sedih atau down juga tidak mengubah apapun, usahakan mindset bahwa trading adalah sebuah bisnis, sehingga kalau tidak profit ya floating, sehingga kunci utama dalam trading adalah sebuah manajemen resiko
