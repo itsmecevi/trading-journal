@@ -953,4 +953,19 @@ __________________________________________________________________________
 * Ketika target profit kurang sedikit, maka tidak akan jadi masalah, berhenti saja trading, karena psikologis yang sedikit akan membuat akun menjadi hancur dan muncul GREEDY
 
 
+### 6 November 2020: NO Trade karena ada urusan keluarga
+
+### 9 November 2020
+
+* SOP Berjalan kemungkinan besar profit akan sangat besar
+* Idealnya trading tidak diganggu dengan hal2 lain di hari yg sama, tinggal fokus
+* Selalu update berita memakai kofyin.conm
+* Waktu Trading intraday: 06-10, 12:16, 18:22
+* Waktu pergerakan besar dari jam 18:00-22:00, di waktu tersebut waktu penutupan pasar eropa dan pembukaan pasar amerika
+* Lebih baik open posisi kecil-kecil dan banyak, karena volatilitas market tidka tertebak
+* Target trading bukanlah hari, melainkan profit
+* Ciri trading yang baik, profit dan floating sama saja jangan mempengaruhi emosi, terlalu senang dan terlalu sedih atau down juga tidak mengubah apapun, usahakan mindset bahwa trading adalah sebuah bisnis, sehingga kalau tidak profit ya floating, sehingga kunci utama dalam trading adalah sebuah manajemen resiko
+
+
+
 
