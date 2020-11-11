@@ -970,4 +970,19 @@ __________________________________________________________________________
 
 
 
+### 10 November 2020
+
+* SOP berjalan kemungkinan akan rugi tapi tidak terlalu signifikan jika tidka sesuai
+* SOP 100 buka 0.01 Lot jika ada 4 kondisi:
+
+1. Pinbar mulai dari TFM15
+2. Pola Kail di TFM5 dan lihat CS di TF lebih besar
+3. 2 CS berjajar di TF Min TFM5 seperti Pinbar tidak sempurna
+4. Breakout per awal jam jika terlalu besar tunggu di MA5High/Low
+5. Pola CS Bank (Laut tenang kurang dari 20 CS 32, Laut arus lebih dari 20 CS 42)
+
+### 11 November 2020
+
+* SOP harus dijalankan, jika tidak maka akan rugi sangat besar, profit kecil dicut, kalau loss maka tidak dicut dan menjadikan loss lebih besar lagi
+* Risk:Reward Ration 1:1, artinya dana siap kehilangan semuanya per tahun dengan imbal balik 100% per tahun.....
 
