@@ -986,3 +986,9 @@ __________________________________________________________________________
 * SOP harus dijalankan, jika tidak maka akan rugi sangat besar, profit kecil dicut, kalau loss maka tidak dicut dan menjadikan loss lebih besar lagi
 * Risk:Reward Ration 1:1, artinya dana siap kehilangan semuanya per tahun dengan imbal balik 100% per tahun.....
 
+### 12-18 November 2020
+
+* Jika SOP dijalankan, akun akan lamban, tetapi jika momentumnya tepat maka akan jackpot
+* Pola Pinbar terbalik di High atau Low BB tanda sebuah reversal
+
+
