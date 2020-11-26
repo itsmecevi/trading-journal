@@ -991,4 +991,14 @@ __________________________________________________________________________
 * Jika SOP dijalankan, akun akan lamban, tetapi jika momentumnya tepat maka akan jackpot
 * Pola Pinbar terbalik di High atau Low BB tanda sebuah reversal
 
+### 26.11.2020
 
+* Rubahlah arah dengan menggunakan UTS (Ultimate Trend Signals)
+* Jangan Averaging (buy atau sell lagi) karena terlalu HIGH RISK
+* 5K Trading Rules:
+
+1. Consistency: 1% Rule from Capital (Loss or Profit)
+2. Discipline:  Time Management (13-17,19-22, alternatif, 20:23), Stress Management, Psychology Management
+3. Confidence: jangan terpengaruh apapun, PD pd diri sendiri
+4. Patient: sabar menunggu setup
+5. Passion: 
