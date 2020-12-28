@@ -1014,7 +1014,7 @@ __________________________________________________________________________
 * Strategi Pinbar dipakai untuk jangka waktu H1, H4, dan D1
 * Target harian, bisa di akumulasi dengan target mingguan, dan jg target bulanan
 * Besarkan dananya, bukan besarkan resikonya
-* Pergerakan emas luar biasa cepat, 5x dari pergerakan mata uang
+* Pergerakan emas luar biasa cepat, 5x dari pergerakan mata uang, sehingga trading emas harus 1/5 nya dari trading mata uang
 
 
 
