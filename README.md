@@ -1001,4 +1001,20 @@ __________________________________________________________________________
 2. Discipline:  Time Management (13-17,19-22, alternatif, 20:23), Stress Management, Psychology Management
 3. Confidence: jangan terpengaruh apapun, PD pd diri sendiri
 4. Patient: sabar menunggu setup
-5. Passion: 
+5. Passion: Minat yang tinggi terhadap trading
+
+### 01-28 Desember:
+
+* Setup terbaik adalah Scalping untuk EURUSD
+* Setup terbaik adalah Strategi Pinbar dipadukan dengan SR Channel akurasi lebih dari 80%
+* Management Trading:
+ -Per $700, OP 0.01 Lot di market manapun
+ -Risk:Reward Ration 1:2 untuk Strategi Pinbar dan 1:5 untuk strategi scalping
+* Scaling terbaik EURUSD adalah jam malam market USA buka
+* Strategi Pinbar dipakai untuk jangka waktu H1, H4, dan D1
+* Target harian, bisa di akumulasi dengan target mingguan, dan jg target bulanan
+* Besarkan dananya, bukan besarkan resikonya
+
+
+
+
