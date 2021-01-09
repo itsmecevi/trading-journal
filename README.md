@@ -1005,7 +1005,7 @@ __________________________________________________________________________
 
 ### 01-28 Desember:
 
-* Setup terbaik adalah Scalping untuk EURUSD
+* Setup terbaik adalah Scalping untuk EUR/USD, GBP/USD, USD/JPY, dan USD/CAD. (Alternatif: EUR/GBP dan USD/CHF)
 * Setup terbaik adalah Strategi Pinbar dipadukan dengan SR Channel akurasi lebih dari 80%
 * Management Trading:
  -Per $700, OP 0.01 Lot di market manapun
@@ -1016,6 +1016,24 @@ __________________________________________________________________________
 * Besarkan dananya, bukan besarkan resikonya
 * Pergerakan emas luar biasa cepat, 5x dari pergerakan mata uang, sehingga trading emas harus 1/5 nya dari trading mata uang
 
+
+### 04-09 Januari 2020:
+
+* Sempat profit 30$, pertama dalam mas trading profit dengan kapital sangat sedikit
+* Minggu ini mulai pertama kalinya menggunakan full kapital, kerugian sebenarnya sekitar $25, tetapi, kerugian tersebut hanya menggerus profit, tidak kapital awal
+* Untuk membantu mental, maka sebaiknya kumpulkan dulu profit ala kadarnya, untuk trade selanjutnya, sehingga kalaupun loss di trade berikutnya itu pun tidak mengganggu kapital, karena loss kapital sangat merusak psikologis dibandingkan dengan loss yang berasal dari profit
+* Hindari trading impulsif, usahakan pada saat pagi hari jam 6 pagi, membuat mapping utk ancang2 trading yang akan dieksekusi
+* Untuk mencapai profit maksimum, waktu trading terbaik adalah jam 6-7 (Mapping), 7-10 (sesi asia), 13-17 (sesi eropa), 19-23 (sesi amerika)
+* Dalam 3 sesi tersebut, karena trading adalah faktor nya variable, maka harus sangat fleksibel dengan kondisi pasar, dan juga melihat pola terbentuknya CS terutama Pinbar dan Channel
+* Padukan beberapa analisis seperti Kondisi Politik, Pasar Saham, SnR, Channel, Pinbar, Pola CS walaupun secara SOP metode yang terbaik adalah pola Pinbar dan SnR
+* Hindari Trading pada saat kondisi psikologis sedang jengkel, kesal, atau marah. Sebaiknya jika pun akan memaksa untuk trading, gunakan lot yang terkecil dan perhatikan reaksi psikologis yang terjadi
+* Trading bukanlah sebuah lomba sprint, melainkan sebuah maraton, dan sangat bisa di Scale Up dengan kenaikan kapital dan juga SDM yang diperlukan tidak terlalu banyak
+* Pada saat profit, walaupun tidak sampai kepada Risk:Reward Ration, perhatikan Indikator OScilator seperti RSI, Stoch, dan juga %R
+* WELCOME TO THE CLUB, WELCOME to GERTAONE HEDGE FUND, a part of GERTAONE APPLIED RESEARCH
+* Riset telah selesai selanjutnya, tinggal konsisten memakai SOP yang ada dan transfer knowledge
+* Akan dicoba membuat sebuah portofolio bulan januari, februari, dan maret, lalu mencari limiter partner untuk membuat capital lebih besar
+* Target membuka 0.1 Lot trading dengan modal 70juta di bulan Maret
+* Target mendapatkan orang yang capable untuk trading pada saat mendapatkan dana baru, sehingga kantor Bandung bisa diisi oleh seorang pegawai tersebut (1 atau 2 orang opsional, better jika 2 orang karena akan lebih saling mengingatkan)
 
 
 
