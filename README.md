@@ -1029,6 +1029,7 @@ __________________________________________________________________________
 * Hindari Trading pada saat kondisi psikologis sedang jengkel, kesal, atau marah. Sebaiknya jika pun akan memaksa untuk trading, gunakan lot yang terkecil dan perhatikan reaksi psikologis yang terjadi
 * Trading bukanlah sebuah lomba sprint, melainkan sebuah maraton, dan sangat bisa di Scale Up dengan kenaikan kapital dan juga SDM yang diperlukan tidak terlalu banyak
 * Pada saat profit, walaupun tidak sampai kepada Risk:Reward Ration, perhatikan Indikator OScilator seperti RSI, Stoch, dan juga %R
+* Penting untuk melihat pendapat orang lain terkait pergerakan market di tradingview sehingga landscape trading kita lebih luas, kita tidak cari sebuah pembenaran, tapi mencari sebuah peluang terbesar untuk trading, karena sulitnya trading karena faktor yang adalah merupakan sebuah variable yang sering berubah, sehingga sangat penting untuk melihat perspektif orang lain, walaupun kita sendiri harus independen dalam menganalisa hal tersebut
 * WELCOME TO THE CLUB, WELCOME to GERTAONE HEDGE FUND, a part of GERTAONE APPLIED RESEARCH
 * Riset telah selesai selanjutnya, tinggal konsisten memakai SOP yang ada dan transfer knowledge
 * Akan dicoba membuat sebuah portofolio bulan januari, februari, dan maret, lalu mencari limiter partner untuk membuat capital lebih besar
