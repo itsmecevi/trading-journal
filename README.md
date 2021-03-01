@@ -509,7 +509,7 @@ __________________________________________________________________________
 * WELCOME TO THE CLUB, WELCOME to GERTAONE HEDGE FUND, a part of GERTAONE APPLIED RESEARCH
 * Riset telah selesai selanjutnya, tinggal konsisten memakai SOP yang ada dan transfer knowledge
 * Akan dicoba membuat sebuah portofolio bulan januari, februari, dan maret, lalu mencari limiter partner untuk membuat capital lebih besar
-* Target membuka 0.1 Lot trading dengan modal 70juta di bulan Maret untuk Gold (XAUUSD)
+* Target membuka 0.1 Lot trading dengan modal 70-100 juta sejak Maret untuk Gold (XAUUSD), diluar itu dilarang karena tidak sesuai SOP
 * Target mendapatkan orang yang capable untuk trading pada saat mendapatkan dana baru, sehingga kantor Bandung bisa diisi oleh seorang pegawai tersebut (1 atau 2 orang opsional, better jika 2 orang karena akan lebih saling mengingatkan)
 
 
