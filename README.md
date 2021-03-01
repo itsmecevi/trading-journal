@@ -31,11 +31,6 @@ __________________________________________
 * ~~Menentukan batasan (BB, MA5High SMA close, MA5Low SMA Close)~~
 * ~~Untuk non-emas atau pair aturannya adalah 3x Lot~~
 
-## Gertaone Risk Management:
-* ~~Aturan Lot dan risk tetap (fix risk, variable profit)~~
-* ~~TEAM-UP!XXXX~~
-* ~~TRADING WITH ONLY 1000$~~
-
 
 __________________________________________________________________________
 
