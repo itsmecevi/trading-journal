@@ -10,9 +10,6 @@
 * 6. Max floating: 2 days
 * 7. Max 0.1 lot for forex and 0.01 lot for Gold every $1000
 
-
-
-
 __________________________________________
 
  
@@ -23,7 +20,7 @@ __________________________________________
 * ~~Jangan Pakai Robot TP~~
 * ~~Cut Loss Ketika Loss 3$ per OP 0.01 Lot~~
 * ~~Jangan Hedging, akan pusing sendiri jika tidak terbiasa~~
-* ~~Jangan OVERLOT~~~~
+* ~~Jangan OVERLOT~~
 
 ## Gertaone Hedging:
 * ~~Modal $1000~~
@@ -517,8 +514,24 @@ __________________________________________________________________________
 * WELCOME TO THE CLUB, WELCOME to GERTAONE HEDGE FUND, a part of GERTAONE APPLIED RESEARCH
 * Riset telah selesai selanjutnya, tinggal konsisten memakai SOP yang ada dan transfer knowledge
 * Akan dicoba membuat sebuah portofolio bulan januari, februari, dan maret, lalu mencari limiter partner untuk membuat capital lebih besar
-* Target membuka 0.1 Lot trading dengan modal 70juta di bulan Maret
+* Target membuka 0.1 Lot trading dengan modal 70juta di bulan Maret untuk Gold (XAUUSD)
 * Target mendapatkan orang yang capable untuk trading pada saat mendapatkan dana baru, sehingga kantor Bandung bisa diisi oleh seorang pegawai tersebut (1 atau 2 orang opsional, better jika 2 orang karena akan lebih saling mengingatkan)
+
+
+
+### 11-29 Januar 2021:
+
+* Karena penetapan presiden USA sudah final dan Biden menjadi presiden baru, pola yang telah diriset sejak tahun lalu tidak/jarang sekali muncul sehingga pola pergerakan market harus dikaji ulang
+* Didapatkan sebuah pola baru dari pola yg telah dikaji sejak tahun lalu ditambah dengan penyesuaian di dalam range harian yang berubah drastis dan volatilitas market yang cenderung stabil dibanding dengan masa pada saat Presiden Trump
+
+### 01-28 Februar 2021:
+
+* Mendapatkan partner angel, dan sepakat untuk memulai membangun portofolio bersama
+* Dikarenakan sakit 2 minggu awal, trading tidak terlalu efektif, dan juga dari tengah bulan februari sampai dengan akhir terkena Covid-19 dan harus istirahat total
+
+### 01 Februar 2021:
+
+* Memulai portofolio dengan partner baru
 
 
 
