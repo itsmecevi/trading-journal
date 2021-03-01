@@ -412,7 +412,7 @@ __________________________________________________________________________
 * Terlalu sering trading akan membuat otak kurang fresh
 * Mindset bandar bukan takut kita menang banyak, tapi takut kita tidak trading lagi
 
-### 30-4 November 2020:
+### 30 September - 4 November 2020: (Memulai Sendiri)
 
 * Jika sesuai SOP, maka akan selamat
 * SOP yang ada adalah breakout dan Pinbar di TFM15
@@ -525,7 +525,7 @@ __________________________________________________________________________
 * Mendapatkan partner angel, dan sepakat untuk memulai membangun portofolio bersama
 * Dikarenakan sakit 2 minggu awal, trading tidak terlalu efektif, dan juga dari tengah bulan februari sampai dengan akhir terkena Covid-19 dan harus istirahat total
 
-### 01 Februar 2021:
+### 01 Februar 2021: (Partnership dengan Angel)
 
 * Memulai portofolio dengan partner baru
 
