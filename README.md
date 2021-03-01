@@ -2,13 +2,13 @@
 
 ## 7 Point of Gertaone Hedge Fund Risk Management:
 
-* 1. Max loss / Drawdown 15% from AUM (Asset Under Management). Profit range minimum 22.5%-30% p.a. for limited partner (client/investor), its means-> Risk Reward Ration (1:1.5)-(1:2)
-* 2. Leverage (1:10) - (1:50)
-* 3. Limited partner investment <=$10.000 -> Sharing profit 50%:50%
-* 4. Stop Loss 300 point=30 pips, Take Profit is freedom
-* 5. No Hedging
-* 6. Max floating: 2 days
-* 7. Max 0.1 lot for forex and 0.01 lot for Gold every $1000
+* 1-Max loss / Drawdown 15% from AUM (Asset Under Management). Profit range minimum 22.5%-30% p.a. for limited partner (client/investor), its means-> Risk Reward Ration (1:1.5)-(1:2)
+* 2-Leverage (1:10) - (1:50)
+* 3-Limited partner investment <=$10.000 -> Sharing profit 50%:50%
+* 4-Stop Loss 300 point=30 pips, Take Profit is freedom
+* 5-No Hedging
+* 6-Max floating: 2 days
+* 7-Max 0.1 lot for forex and 0.01 lot for Gold every $1000
 
 __________________________________________
 
