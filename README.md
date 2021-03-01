@@ -1,4 +1,4 @@
-
+Trading-Journal:
 
 ## 7 Point of Gertaone Hedge Fund Risk Management:
 
