@@ -525,7 +525,7 @@ __________________________________________________________________________
 * Mendapatkan partner angel, dan sepakat untuk memulai membangun portofolio bersama
 * Dikarenakan sakit 2 minggu awal, trading tidak terlalu efektif, dan juga dari tengah bulan februari sampai dengan akhir terkena Covid-19 dan harus istirahat total
 
-### 01 Februar 2021: (Partnership dengan Angel)
+### 01 Maret 2021: (Partnership dengan Angel)
 
 * Memulai portofolio dengan partner baru
 
