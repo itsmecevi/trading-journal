@@ -522,6 +522,7 @@ __________________________________________________________________________
 ### 11-29 Januar 2021:
 
 * Karena penetapan presiden USA sudah final dan Biden menjadi presiden baru, pola yang telah diriset sejak tahun lalu tidak/jarang sekali muncul sehingga pola pergerakan market harus dikaji ulang
+* Riset dan kalibrasi sistem trading baru untuk masa presiden Biden (2021-2026)
 * Didapatkan sebuah pola baru dari pola yg telah dikaji sejak tahun lalu ditambah dengan penyesuaian di dalam range harian yang berubah drastis dan volatilitas market yang cenderung stabil dibanding dengan masa pada saat Presiden Trump
 
 ### 01-28 Februar 2021:
